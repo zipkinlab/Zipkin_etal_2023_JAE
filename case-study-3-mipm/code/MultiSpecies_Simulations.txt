@@ -1,0 +1,129 @@
+
+model{
+# Priors
+ 
+  # Community-level hyperparameters
+  mu.sj ~ dunif(0, 1)       # Community mean of juvenile survival
+  mu.lsj <- logit(mu.sj)    # logit transformation
+  tau.lsj <- pow(sd.lsj, -2)
+  sd.lsj ~ dunif(0, 3)      # Species heterogeneity in juvenile survival
+  
+  mu.sa ~ dunif(0, 1)       # Community mean of adult survival
+  mu.lsa <- logit(mu.sa)    # logit transformation
+  tau.lsa <- pow(sd.lsa, -2)
+  sd.lsa ~ dunif(0, 3)      # Species heteogeneity in adult survival
+  
+  mu.p ~ dunif(0, 1)        # Community mean of detection
+  mu.lp <- logit(mu.p)      # logit transformation
+  tau.lp <- pow(sd.lp, -2)
+  sd.lp ~ dunif(0, 3)       # Species heterogeneity in detection
+  
+  mu.f ~ dunif(0, 10)       #  Community mean of fecundity
+  mu.ef <- log(mu.f)        # log transformation
+  tau.f <- pow(sd.f, -2)
+  sd.f ~ dunif(0, 3)        # Species heterogeneity in fecundity
+  
+  # Species-level random effects
+  for(k in 1:n.species){  
+    lsj[k] ~ dnorm(mu.lsj, tau.lsj)
+    lsa[k] ~ dnorm(mu.lsa, tau.lsa)
+    lsp[k] ~ dnorm(mu.lp, tau.lp)
+    mean.ef[k] ~ dnorm(mu.ef, tau.f)
+    
+    logit(mean.sj[k]) <- lsj[k]
+    logit(mean.sa[k]) <- lsa[k]
+    logit(mean.p[k]) <- lsp[k]
+    log(mean.f[k]) <- mean.ef[k]
+  
+    for (t in 1:(n.occasions-1)){
+      sj[k,t] <- mean.sj[k]   # Set time-varying parameters to a constant
+      sa[k,t] <- mean.sa[k]   # Set time-varying parameters to a constant
+      p[k,t] <- mean.p[k]     # Set time-varying parameters to a constant
+    } #t
+  
+    sigma[k] ~ dunif(0.5, 50)
+    tau[k] <- pow(sigma[k], -2)
+  
+  } #k
+  
+  # PART I: Population count data (state-space model)
+  # Model for the initial population size: uniform priors
+  for (k in 1:n.species){
+    N[k,1,1] ~ dunif(1,100)
+    N[k,2,1] ~ dunif(1,100)
+  } #k
+  
+  # Process model over time: our model of population dynamics
+  for (k in 1:n.species){
+    for (t in 1:(n.occasions-1)){
+      N[k,1,t+1] <- mean.f[k]/2 * (N[k,1,t] + N[k,2,t]) * mean.sj[k] 
+      N[k,2,t+1] <- (N[k,1,t] + N[k,2,t]) * mean.sa[k]
+    } #t
+  }# k
+  
+  # Observation model
+  for (k in 1:n.species){
+    for (t in 1:n.occasions){
+      C[k,t] ~ dnorm(N[k,1,t] + N[k,2,t], tau[k])
+    } #t
+  } #k
+  
+  # PART II: Productivity data (Poisson regression model)
+  for (k in 1:n.species){
+    sJ[k] ~ dpois(nJ[k] * mean.f[k])
+  } #k
+  
+  # PART III: Capture-recapture data (CJS model with multinomial likelihood)
+  # Define the multinomial likelihood
+  for (k in 1:n.species){
+    for (t in 1:(n.occasions-1)){
+      marr.j[k,t,1:n.occasions] ~ dmulti(pr.j[k,t,], rel.j[k,t])
+      marr.a[k,t,1:n.occasions] ~ dmulti(pr.a[k,t,], rel.a[k,t])
+  } #t
+  
+  # Define the cell probabilities of the m-arrays
+    for (t in 1:(n.occasions-1)){
+      # Main diagonal
+      q[k,t] <- 1 - p[k,t]   # Probability of non-recapture
+      pr.j[k,t,t] <- sj[k,t] * p[k,t]
+      pr.a[k,t,t] <- sa[k,t] * p[k,t]
+    
+      # Above main diagonal
+      for (j in (t+1):(n.occasions-1)){
+        pr.j[k,t,j] <- sj[k,t] * prod(sa[k,(t+1):j]) * prod(q[k,t:(j-1)]) * p[k,j]
+        pr.a[k,t,j] <- prod(sa[k,t:j]) * prod(q[k,t:(j-1)]) * p[k,j]
+      } #j
+    
+    # Below main diagonal
+      for (j in 1:(t-1)){
+        pr.j[k,t,j] <- 0
+        pr.a[k,t,j] <- 0
+      } #j
+    } #t
+  
+  # Last column: probability of non-recapture
+    for (t in 1:(n.occasions-1)){
+      pr.j[k,t,n.occasions] <- 1-sum(pr.j[k,t,1:(n.occasions-1)])
+      pr.a[k,t,n.occasions] <- 1-sum(pr.a[k,t,1:(n.occasions-1)])
+    } #t
+  } #k
+  
+  
+  # PART IV: Derived parameters
+  # Annual population growth rate
+  for(k in 1:n.species){
+    for (t in 1:(n.occasions-1)){
+      ann.growth.rate[k,t] <- (N[k,1,t+1] + N[k,2,t+1]) / (N[k,1,t] + N[k,2,t])
+    } #t
+  } #k
+  
+  # Total population size
+  for(k in 1:n.species){
+    for(t in 1:n.occasions){
+      Ntot[k,t] <- N[k,1,t] + N[k,2,t]
+    } #t
+  } #k
+  
+} # model
+
+
