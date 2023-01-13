@@ -65,20 +65,20 @@ beta.9.samples <- do.call('rbind', beta.samples[, (N * 8 + 1):(N * 9)])
 # Predict across all locations (including fitted)
 occ.covs.pred <- occ.covs
 # Get mean and sd for covariates used to fit the model
-mean.elev.fit <- mean(occ.covs.small$elev)
-sd.elev.fit <- sd(occ.covs.small$elev)
-mean.pf.fit <- mean(occ.covs.small$pf)
-sd.pf.fit <- sd(occ.covs.small$pf)
-mean.bio1.fit <- mean(occ.covs.small$bio1)
-sd.bio1.fit <- sd(occ.covs.small$bio1)
-mean.bio2.fit <- mean(occ.covs.small$bio2)
-sd.bio2.fit <- sd(occ.covs.small$bio2)
-mean.bio8.fit <- mean(occ.covs.small$bio8)
-sd.bio8.fit <- sd(occ.covs.small$bio8)
-mean.bio12.fit <- mean(occ.covs.small$bio12)
-sd.bio12.fit <- sd(occ.covs.small$bio12)
-mean.bio18.fit <- mean(occ.covs.small$bio18)
-sd.bio18.fit <- sd(occ.covs.small$bio18)
+mean.elev.fit <- mean(occ.covs.small$elev, na.rm = TRUE)
+sd.elev.fit <- sd(occ.covs.small$elev, na.rm = TRUE)
+mean.pf.fit <- mean(occ.covs.small$pf, na.rm = TRUE)
+sd.pf.fit <- sd(occ.covs.small$pf, na.rm = TRUE)
+mean.bio1.fit <- mean(occ.covs.small$bio1, na.rm = TRUE)
+sd.bio1.fit <- sd(occ.covs.small$bio1, na.rm = TRUE)
+mean.bio2.fit <- mean(occ.covs.small$bio2, na.rm = TRUE)
+sd.bio2.fit <- sd(occ.covs.small$bio2, na.rm = TRUE)
+mean.bio8.fit <- mean(occ.covs.small$bio8, na.rm = TRUE)
+sd.bio8.fit <- sd(occ.covs.small$bio8, na.rm = TRUE)
+mean.bio12.fit <- mean(occ.covs.small$bio12, na.rm = TRUE)
+sd.bio12.fit <- sd(occ.covs.small$bio12, na.rm = TRUE)
+mean.bio18.fit <- mean(occ.covs.small$bio18, na.rm = TRUE)
+sd.bio18.fit <- sd(occ.covs.small$bio18, na.rm = TRUE)
 # Design matrix for model predictions
 X.0 <- cbind(1, (occ.covs.pred$elev - mean.elev.fit) / sd.elev.fit, 
 	     ((occ.covs.pred$elev - mean.elev.fit) / sd.elev.fit)^2, 
@@ -236,8 +236,6 @@ grid.plot <- st_intersection(grid.ne, st_make_valid(ne.states))
 BTNW.plot <- ggplot() + 
   geom_sf(data = grid.plot, aes(fill = BTNW.occ, col = BTNW.occ)) + 
   geom_sf(data = ne.states, col = 'black', fill = NA) + 
-  # scale_fill_gradientn(colors = viridis(10), na.value = NA) +
-  # scale_color_gradientn(colors = viridis(10), na.value = NA) +
   scale_fill_gradientn(colors = brewer.pal(9, 'YlOrRd'), na.value = NA) +
   scale_color_gradientn(colors = brewer.pal(9, 'YlOrRd'), na.value = NA) +
   theme_bw(base_size = 18) +
@@ -250,8 +248,6 @@ BTNW.plot
 CERW.plot <- ggplot() + 
   geom_sf(data = grid.plot, aes(fill = CERW.occ, col = CERW.occ)) + 
   geom_sf(data = ne.states, col = 'black', fill = NA) + 
-  # scale_fill_gradientn(colors = viridis(10), na.value = NA) +
-  # scale_color_gradientn(colors = viridis(10), na.value = NA) +
   scale_fill_gradientn(colors = brewer.pal(9, 'YlOrRd'), na.value = NA) +
   scale_color_gradientn(colors = brewer.pal(9, 'YlOrRd'), na.value = NA) +
   theme_bw(base_size = 18) +
