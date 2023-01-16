@@ -11,6 +11,8 @@ This directory contains all code for raw data analysis, fitting models, and prod
 
 ## spOccupancy-code
 
+We used `spOccupancy` to fit the integrated community occupancy model, which was added to the package in `v0.6.0`. This version of the package is currently available on GitHub, which can be installed via `devtools::install_github("doserjef/spOccupancy")`. This will be added to the CRAN version by March 2023.
+
 1. `main-spOccupancy.R`: main script for running the integrated community occupancy model through `spOccupancy`. 
 2. `spOccupancy-data-prep.R`: script that prepares the data for use in `spOccupancy`. The output file from this script is `data/spOccupancy-data.rda`. 
 3. `summary-spOccupancy.R`: script that summarizes results from the model fit in `spOccupancy` and creates the figures shown in the main text and appendix for the bird case study.
