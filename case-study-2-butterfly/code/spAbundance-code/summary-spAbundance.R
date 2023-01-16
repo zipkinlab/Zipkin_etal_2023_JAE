@@ -55,12 +55,6 @@ sp.common.names <-  c('Least Skipper', 'Spring/summer Azure', 'Silver-spotted Sk
                       'Pearl Crescent', 'Cabbage White', "Peck's Skipper",
                       'American Lady')
 
-# Basic exploration of results --------------------------------------------
-# Linear year trend
-MCMCsummary(beta.samples, params = 'year.cov', exact = FALSE)
-# Species-specific week effects
-MCMCsummary(beta.samples, params = 'week.cov', exact = FALSE)
-
 # Generate summary statistics of the data sets ---------------------------
 covs.df <- as.data.frame(data.list$covs)
 covs.df$data.set <- NA
@@ -112,11 +106,7 @@ trend.re.samples <- array(MCMCchains(trend.re.samples, params = 'Intercept', exa
 			  dim = c(nrow(trend.re.samples), n.years, N))
 # Average for the community-level values. 
 trend.re.comm.samples <- apply(trend.re.samples, c(1, 2), mean)
-# Extract number of surveys fixed effect for predicting abundance with one 
-# survey in a given week. 
-survey.samples <- MCMCchains(beta.samples, params = 'survey', exact = FALSE)
-survey.comm.samples <- MCMCchains(beta.comm.samples, params = 'survey', exact = FALSE)
-pred.df <- data.frame(ia.ind = 0, il.ind = 0, mi.ind = 0, survey.cov = 1, 
+pred.df <- data.frame(ia.ind = 0, il.ind = 0, mi.ind = 0, survey.cov = 0, 
 		      year.cov = 1:10, week.cov = 0)
 pred.df$year.s <- (1:10 - mean(data.list$covs$year.cov, na.rm = TRUE)) / sd(data.list$covs$year.cov, 
 									      na.rm = TRUE)
@@ -131,15 +121,15 @@ mu.trend.samples <- array(NA, dim = c(n.samples, n.years, N))
 mu.comm.trend.samples <- array(NA, dim = c(n.samples, n.years))
 for (j in 1:n.samples) {
   for (i in 1:N) {
-    mu.samples[j, , i] <- exp(int.samples[j, i] + survey.samples[j, i] + 
+    mu.samples[j, , i] <- exp(int.samples[j, i] + 
 			      trend.log.samples[j, i] * pred.df$year.s + 
 			      trend.re.samples[j, , i])
-    mu.comm.samples[j, ] <- exp(int.comm.samples[j, ] + survey.comm.samples[j, ] + 
+    mu.comm.samples[j, ] <- exp(int.comm.samples[j, ] +  
 				trend.comm.log.samples[j, ] * pred.df$year.s + 
 				trend.re.comm.samples[j, ])
-    mu.trend.samples[j, , i] <- exp(int.samples[j, i] + survey.samples[j, i] + 
+    mu.trend.samples[j, , i] <- exp(int.samples[j, i] + 
 			      trend.log.samples[j, i] * pred.df$year.s)
-    mu.comm.trend.samples[j, ] <- exp(int.comm.samples[j, ] + survey.comm.samples[j, ] + 
+    mu.comm.trend.samples[j, ] <- exp(int.comm.samples[j, ] + 
 				      trend.comm.log.samples[j, ] * pred.df$year.s)
   }
 }
