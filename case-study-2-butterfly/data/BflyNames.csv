@@ -1,0 +1,1000 @@
+Order,Family,Subfamily,UMD_Code,TaxLevel,Genus,Species,Subspecies,IncludeSubspecies,Common Name,NABA Comments,Comments,Stex-Mex OW only
+707,Hesperiidae,Pyrginae,ACH-SP,GENUS,Achalarus,sp.,,,Achalarus sp.,,,FALSE
+704,Hesperiidae,Pyrginae,ACHALB,SPECIES,Achalarus,albociliatus,,,Skinner's Cloudywing,,,FALSE
+703,Hesperiidae,Pyrginae,ACHCAS,SPECIES,Achalarus,casica,,,Desert Cloudywing,,Scott calls Desert Hoary Edge,FALSE
+706,Hesperiidae,Pyrginae,ACHJAL,SPECIES,Achalarus,jalapus,,,Jalapus Cloudywing,*,,FALSE
+746,Hesperiidae,Pyrginae,ACHLTHR,SPECIES,Achlyodes,thraso,,,Sickle-winged Skipper,*,,TRUE
+702,Hesperiidae,Pyrginae,ACHLYC,SPECIES,Achalarus,lyciades,,,Hoary Edge,,,FALSE
+705,Hesperiidae,Pyrginae,ACHTOX,SPECIES,Achalarus,toxeus,,,Coyote Cloudywing,,,TRUE
+536,Nymphalidae,Limenitidinae,ADE-SP,GENUS,Adelpha,sp.,,,Sister sp.,,,FALSE
+535,Nymphalidae,Limenitidinae,ADEBAS,SPECIES,Adelpha,basiloides,,,Spot-celled Sister,,,FALSE
+534,Nymphalidae,Limenitidinae,ADEBRE,SPECIES,Adelpha,bredowii,,,California Sister,,,FALSE
+533,Nymphalidae,Limenitidinae,ADEFES,SPECIES,Adelpha,fessonia,,,Band-celled Sister,,Scott uses Limenitis,FALSE
+842,Hesperiidae,Hesperiinae,ADOPRI,SPECIES,Adopaeoides,prittwitzi,,,Sunrise Skipper,,,FALSE
+979,Hesperiidae,Megathyminae,AGA-SP,GENUS,Agathymus,sp.,,,Agathymus sp.,,,FALSE
+978,Hesperiidae,Megathyminae,AGAALL,SPECIES,Agathymus,alliae,,,Mojave Giant-Skipper,,,FALSE
+970,Hesperiidae,Megathyminae,AGAARY,SPECIES,Agathymus,aryxna,,,Arizona Giant-Skipper,*,,FALSE
+971,Hesperiidae,Megathyminae,AGAARY,SUBSPECIES,Agathymus,aryxna,baueri,,Arizona Giant-Skipper,,,FALSE
+972,Hesperiidae,Megathyminae,AGAARY,SUBSPECIES,Agathymus,aryxna,gentryi,,Arizona Giant-Skipper,*,,FALSE
+973,Hesperiidae,Megathyminae,AGAEVA,SPECIES,Agathymus,evansi,,,Huachuca Giant-Skipper,,,FALSE
+974,Hesperiidae,Megathyminae,AGAMAR,SPECIES,Agathymus,mariae,,,Mary's Giant-Skipper,,,FALSE
+969,Hesperiidae,Megathyminae,AGANEU,SPECIES,Agathymus,neumoegeni,,,Orange Giant-Skipper,,(includes chisosensis ),FALSE
+977,Hesperiidae,Megathyminae,AGAPOL,SPECIES,Agathymus,polingi,,,Poling's Giant-Skipper,,,FALSE
+976,Hesperiidae,Megathyminae,AGAREM,SPECIES,Agathymus,remingtoni,,,Coahuila Giant-Skipper,,,FALSE
+975,Hesperiidae,Megathyminae,AGASTE,SPECIES,Agathymus,stephensi,,,California Giant-Skipper,,,FALSE
+338,Lycaenidae,Polyommatinae,AGR-SP,GENUS,Agriades,sp.,,,Agriades sp.,,,FALSE
+375,Nymphalidae,Heliconiinae,AGRAVAN,SPECIES,Agraulis,vanillae,,,Gulf Fritillary,,,TRUE
+337,Lycaenidae,Polyommatinae,AGRCAS,SPECIES,Agriades,cassiope,,,Heather Blue,*,,FALSE
+333,Lycaenidae,Polyommatinae,AGRGLA,SPECIES,Agriades,glandon,,,Arctic Blue,*,"Scott uses genus Plebejus, also recognizes ssp. rustica and aquilo",FALSE
+334,Lycaenidae,Polyommatinae,AGRGLA,SUBSPECIES,Agriades,glandon,glandon,,Glandon' Arctic Blue,,,FALSE
+335,Lycaenidae,Polyommatinae,AGRGLA,SUBSPECIES,Agriades,glandon,franklinii,,Mountain' Arctic Blue,,,FALSE
+336,Lycaenidae,Polyommatinae,AGRGLA,SUBSPECIES,Agriades,glandon,podarce,,Sierra' Arctic Blue,,,FALSE
+671,Hesperiidae,Pyrginae,AGU-SP,GENUS,Aguna,sp.,,,Aguna sp.,,,FALSE
+668,Hesperiidae,Pyrginae,AGUASA,SPECIES,Aguna,asander,,,Gold-spotted Aguna,,,FALSE
+669,Hesperiidae,Pyrginae,AGUCLA,SPECIES,Aguna,claxon,,,Emerald Aguna,,,FALSE
+670,Hesperiidae,Pyrginae,AGUMET,SPECIES,Aguna,metophis,,,Tailed Aguna,,,FALSE
+166,Lycaenidae,Theclinae,ALLSTR,SPECIES,Allosmaitia,strophius,,,Strophius Hairstreak,,,FALSE
+951,Hesperiidae,Hesperiinae,AMB-SP,GENUS,Amblyscirtes,sp.,,,Roadside-Skipper sp.,,,FALSE
+931,Hesperiidae,Hesperiinae,AMBAEN,SPECIES,Amblyscirtes,aenus,,,Bronze Roadside-Skipper,,,FALSE
+939,Hesperiidae,Hesperiinae,AMBAES,SPECIES,Amblyscirtes,aesculapius,,,Lace-winged Roadside-Skipper,,,FALSE
+948,Hesperiidae,Hesperiinae,AMBALT,SPECIES,Amblyscirtes,alternata,,,Dusky Roadside-Skipper,,,FALSE
+947,Hesperiidae,Hesperiinae,AMBBEL,SPECIES,Amblyscirtes,belli,,,Bell's Roadside-Skipper,,,FALSE
+940,Hesperiidae,Hesperiinae,AMBCAR,SPECIES,Amblyscirtes,carolina,,,Carolina Roadside-Skipper,,,FALSE
+930,Hesperiidae,Hesperiinae,AMBCAS,SPECIES,Amblyscirtes,cassus,,,Cassus Roadside-Skipper,,,FALSE
+946,Hesperiidae,Hesperiinae,AMBCEL,SPECIES,Amblyscirtes,celia,,,Celia's Roadside-Skipper,,,FALSE
+935,Hesperiidae,Hesperiinae,AMBELI,SPECIES,Amblyscirtes,elissa,,,Elissa Roadside-Skipper,,,FALSE
+944,Hesperiidae,Hesperiinae,AMBEOS,SPECIES,Amblyscirtes,eos,,,Dotted Roadside-Skipper,,,FALSE
+929,Hesperiidae,Hesperiinae,AMBEXO,SPECIES,Amblyscirtes,exoteria,,,Large Roadside-Skipper,,,FALSE
+950,Hesperiidae,Hesperiinae,AMBFIM,SPECIES,Amblyscirtes,fimbriata,,,Orange-edged Roadside-Skipper,,,FALSE
+934,Hesperiidae,Hesperiinae,AMBHEG,SPECIES,Amblyscirtes,hegon,,,Pepper and Salt Skipper,,,FALSE
+932,Hesperiidae,Hesperiinae,AMBLIN,SPECIES,Amblyscirtes,linda,,,Linda's Roadside-Skipper,,,FALSE
+942,Hesperiidae,Hesperiinae,AMBNER,SPECIES,Amblyscirtes,nereus,,,Slaty Roadside-Skipper,,,FALSE
+943,Hesperiidae,Hesperiinae,AMBNYS,SPECIES,Amblyscirtes,nysa,,,Nysa Roadside-Skipper,,,FALSE
+933,Hesperiidae,Hesperiinae,AMBOSL,SPECIES,Amblyscirtes,oslari,,,Oslar's Roadside-Skipper,,,FALSE
+949,Hesperiidae,Hesperiinae,AMBPHY,SPECIES,Amblyscirtes,phylace,,,Orange-headed Roadside-Skipper,,,FALSE
+941,Hesperiidae,Hesperiinae,AMBREV,SPECIES,Amblyscirtes,reversa,,,Reversed Roadside-Skipper,,,FALSE
+928,Hesperiidae,Hesperiinae,AMBSIM,SPECIES,Amblyscirtes,simius,,,Simius Roadside-Skipper,,,FALSE
+936,Hesperiidae,Hesperiinae,AMBTEX,SPECIES,Amblyscirtes,texanae,,,Texas Roadside-Skipper,,,FALSE
+937,Hesperiidae,Hesperiinae,AMBTOL,SPECIES,Amblyscirtes,tolteca,,,Toltec Roadside-Skipper,*,,FALSE
+938,Hesperiidae,Hesperiinae,AMBTOL,SUBSPECIES,Amblyscirtes,tolteca,prenda,,Prenda' Toltec Roadside-Skipper,,,FALSE
+945,Hesperiidae,Hesperiinae,AMBVIA,SPECIES,Amblyscirtes,vialis,,,Common Roadside-Skipper,,,FALSE
+570,Nymphalidae,Charaxinae,ANA-SP,GENUS,Anaea,sp.,,,Leafwing sp.,,,FALSE
+565,Nymphalidae,Charaxinae,ANAAID,SPECIES,Anaea,aidea,,,Tropical Leafwing,,,FALSE
+567,Nymphalidae,Charaxinae,ANAAND,SPECIES,Anaea,andria,,,Goatweed Leafwing,,,FALSE
+566,Nymphalidae,Charaxinae,ANAFLO,SPECIES,Anaea,floridalis,,,Florida Leafwing,*,,FALSE
+568,Nymphalidae,Charaxinae,ANAGLY,SPECIES,Anaea,glycerium,,,Angled Leafwing,,,FALSE
+569,Nymphalidae,Charaxinae,ANAPIT,SPECIES,Anaea,pithyusa,,,Pale-spotted Leafwing,,,FALSE
+516,Nymphalidae,Nymphalinae,ANAR-SP,GENUS,Anartia,sp.,,,Peacock sp.,,,FALSE
+514,Nymphalidae,Nymphalinae,ANARCHR,SPECIES,Anartia,chrysopelea,,,Cuban Peacock,*,,FALSE
+515,Nymphalidae,Nymphalinae,ANARFAT,SPECIES,Anartia,fatima,,,Banded Peacock,,,FALSE
+513,Nymphalidae,Nymphalinae,ANARJAT,SPECIES,Anartia,jatrophae,,,White Peacock,,,TRUE
+888,Hesperiidae,Hesperiinae,ANAT-SP,GENUS,Anatrytone,sp.,,,Anatrytone sp.,,,FALSE
+886,Hesperiidae,Hesperiinae,ANATLOG,SPECIES,Anatrytone,logan,,,Delaware Skipper,,Scott uses Atrytone,FALSE
+887,Hesperiidae,Hesperiinae,ANATMAZ,SPECIES,Anatrytone,mazai,,,Glowing Skipper,*,Scott has mazai as ssp. of logan - therefore dubious IDs,FALSE
+834,Hesperiidae,Hesperiinae,ANC-SP,GENUS,Ancyloxypha,sp.,,,Least Skipper sp.,,,FALSE
+833,Hesperiidae,Hesperiinae,ANCARE,SPECIES,Ancyloxypha,arene,,,Tropical Least Skipper,,,FALSE
+832,Hesperiidae,Hesperiinae,ANCNUM,SPECIES,Ancyloxypha,numitor,,,Least Skipper,,,FALSE
+116,Pieridae,Coliadinae,ANT-SP,GENUS,Anteos,sp.,,,Angled-Sulphur sp.,,,FALSE
+114,Pieridae,Coliadinae,ANTCLO,SPECIES,Anteos,clorinde,,,White Angled-Sulphur,,,TRUE
+85,Pieridae,Pierinae,ANTH-SP,GENUS,Anthocharis,sp.,,,Orangetip sp.,,,FALSE
+78,Pieridae,Pierinae,ANTHCET,SPECIES,Anthocharis,cethura,,,Desert Orangetip,*,,FALSE
+79,Pieridae,Pierinae,ANTHCET,SUBSPECIES,Anthocharis,cethura,pima,,Pima Orangetip,*,,FALSE
+84,Pieridae,Pierinae,ANTHLAN,SPECIES,Anthocharis,lanceolata,,,Gray Marble,,,FALSE
+83,Pieridae,Pierinae,ANTHMID,SPECIES,Anthocharis,midea,,,Falcate Orangetip,,,FALSE
+80,Pieridae,Pierinae,ANTHSAR,SPECIES,Anthocharis,sara,,,Sara Orangetip,*,includes thoosa and julia,FALSE
+81,Pieridae,Pierinae,ANTHSAR,SUBSPECIES,Anthocharis,sara,sara,,'Pacific' Sara Orangetip,,,FALSE
+82,Pieridae,Pierinae,ANTHSAR,SUBSPECIES,Anthocharis,sara,stella,,'Stella' Sara Orangetip,,,FALSE
+741,Hesperiidae,Pyrginae,ANTIEMO,SPECIES,Antigonus,emorsus,,,White Spurwing,*,,FALSE
+115,Pieridae,Coliadinae,ANTMAE,SPECIES,Anteos,maerula,,,Yellow Angled-Sulphur,,,FALSE
+372,Riodinidae,,APO-SP,GENUS,Apodemia,sp.,,,Apodemia sp.,,,FALSE
+365,Riodinidae,,APOHEP,SPECIES,Apodemia,hepburni,,,Hepburn's Metalmark,,,FALSE
+360,Riodinidae,,APOMOR,SPECIES,Apodemia,mormo,,,Mormon Metalmark,*,,FALSE
+361,Riodinidae,,APOMOR,SUBSPECIES,Apodemia,mormo,virgulti,,Mormon Metalmark,,,FALSE
+362,Riodinidae,,APOMOR,SUBSPECIES,Apodemia,mormo,mejicanus,,Mormon Metalmark,,,FALSE
+363,Riodinidae,,APOMOR,SUBSPECIES,Apodemia,mormo,duryi,,Mormon Metalmark,,,FALSE
+364,Riodinidae,,APOMUL,SPECIES,Apodemia,multiplaga,,,Narrow-winged Metalmark,,,FALSE
+369,Riodinidae,,APONAI,SPECIES,Apodemia,nais,,,Nais Metalmark,*,,FALSE
+370,Riodinidae,,APONAI,SUBSPECIES,Apodemia,nais,nais,,'Nais' Nais Metalmark,,,FALSE
+371,Riodinidae,,APONAI,SUBSPECIES,Apodemia,nais,chisosensis,,'Chisos' Nais Metalmark,,,FALSE
+366,Riodinidae,,APOPAL,SPECIES,Apodemia,palmeri,,,Palmer's Metalmark,,,FALSE
+368,Riodinidae,,APOPHY,SPECIES,Apodemia,phyciodoides,,,Crescent Metalmark,,,FALSE
+367,Riodinidae,,APOWAL,SPECIES,Apodemia,walkeri,,,Walker's Metalmark,,,FALSE
+53,Pieridae,Pierinae,APPDRU,SPECIES,Appias,drusilla,,,Florida White,,,FALSE
+168,Lycaenidae,Theclinae,ARAJAD,SPECIES,Arawacus,jada,,,Creamy Stripe-streak,,,FALSE
+725,Hesperiidae,Pyrginae,ARTTRA,SPECIES,Arteurotia,tractipennis,,,Starred Skipper,,,FALSE
+917,Hesperiidae,Hesperiinae,ASBCAP,SPECIES,Asbolis,capucinus,,,Monk Skipper,,,FALSE
+65,Pieridae,Pierinae,ASCMON,SPECIES,Ascia,monuste,,,Great Southern White,,,TRUE
+575,Nymphalidae,Apaturinae,AST-SP,GENUS,Asterocampa,sp.,,,Hackberry sp.,,,FALSE
+571,Nymphalidae,Apaturinae,ASTCEL,SPECIES,Asterocampa,celtis,,,Hackberry Emperor,,,FALSE
+573,Nymphalidae,Apaturinae,ASTCLY,SPECIES,Asterocampa,clyton,,,Tawny Emperor,,,FALSE
+574,Nymphalidae,Apaturinae,ASTIDY,SUBSPECIES,Asterocampa,idyja,argus,,Cream-banded' Dusky Emperor,*,,FALSE
+572,Nymphalidae,Apaturinae,ASTLEI,SPECIES,Asterocampa,leilia,,,Empress Leilia,,,FALSE
+697,Hesperiidae,Pyrginae,ASTR-SP,GENUS,Astraptes,sp.,,,Flasher sp.,,,FALSE
+694,Hesperiidae,Pyrginae,ASTRALA,SPECIES,Astraptes,alardus,,,Frosted Flasher,,,FALSE
+696,Hesperiidae,Pyrginae,ASTRANA,SPECIES,Astraptes,anaphus,,,Yellow-tipped Flasher,,,FALSE
+693,Hesperiidae,Pyrginae,ASTREGR,SPECIES,Astraptes,egregius,,,Small-spotted Flasher,,,FALSE
+692,Hesperiidae,Pyrginae,ASTRFUL,SPECIES,Astraptes,fulgerator,,,Two-barred Flasher,,,FALSE
+695,Hesperiidae,Pyrginae,ASTRGIL,SPECIES,Astraptes,gilberti,,,Gilbert's Flasher,,gilberti listed as ssp. of A. alector,FALSE
+884,Hesperiidae,Hesperiinae,ATACAM,SPECIES,Atalopedes,campestris,,,Sachem,,,FALSE
+167,Lycaenidae,Theclinae,ATLHAL,SPECIES,Atlides,halesus,,,Great Purple Hairstreak,,,FALSE
+885,Hesperiidae,Hesperiinae,ATRARO,SPECIES,Atrytone,arogos,,,Arogos Skipper,,,FALSE
+927,Hesperiidae,Hesperiinae,ATRY-SP,GENUS,Atrytonopsis,sp.,,,Atrytonopsis sp.,,,FALSE
+925,Hesperiidae,Hesperiinae,ATRYCES,SPECIES,Atrytonopsis,cestus,,,Cestus Skipper,,,FALSE
+920,Hesperiidae,Hesperiinae,ATRYDEV,SPECIES,Atrytonopsis,deva,,,Deva Skipper,,,FALSE
+926,Hesperiidae,Hesperiinae,ATRYEDW,SPECIES,Atrytonopsis,edwardsii,,,Sheep Skipper,,same as A. ovinia from Scott?,FALSE
+918,Hesperiidae,Hesperiinae,ATRYHIA,SPECIES,Atrytonopsis,hianna,,,Dusted Skipper,,,FALSE
+919,Hesperiidae,Hesperiinae,ATRYHIA,SUBSPECIES,Atrytonopsis,hianna,loammi,,Dusted Skipper,,,FALSE
+921,Hesperiidae,Hesperiinae,ATRYLUN,SPECIES,Atrytonopsis,lunus,,,Moon-marked Skipper,,,FALSE
+923,Hesperiidae,Hesperiinae,ATRYPIT,SPECIES,Atrytonopsis,pittacus,,,White-barred Skipper,,,FALSE
+924,Hesperiidae,Hesperiinae,ATRYPYT,SPECIES,Atrytonopsis,python,,,Python Skipper,,,FALSE
+922,Hesperiidae,Hesperiinae,ATRYVIE,SPECIES,Atrytonopsis,vierecki,,,Viereck's Skipper,,,FALSE
+701,Hesperiidae,Pyrginae,AUT-SP,GENUS,Autochton,sp.,,,Banded-Skipper sp.,,,FALSE
+698,Hesperiidae,Pyrginae,AUTCEL,SPECIES,Autochton,cellus,,,Golden Banded-Skipper,*,,FALSE
+700,Hesperiidae,Pyrginae,AUTCIN,SPECIES,Autochton,cincta,,,Chisos Banded-Skipper,,,FALSE
+699,Hesperiidae,Pyrginae,AUTPSE,SPECIES,Autochton,pseudocellus,,,Sonoran Banded-Skipper,,,FALSE
+13,Papilionidae,Papilioninae,BAT-SP,GENUS,Battus,sp.,,,Battus sp.,,,FALSE
+11,Papilionidae,Papilioninae,BATPHI,SPECIES,Battus,philenor,,,Pipevine Swallowtail,,,FALSE
+12,Papilionidae,Papilioninae,BATPOL,SPECIES,Battus,polydamas,,,Polydamas Swallowtail,,,FALSE
+1,,,BFLY,BFLY,Butterfly,sp.,,,Butterfly sp.,,,FALSE
+546,Nymphalidae,Limenitidinae,BIBHYP,SPECIES,Biblis,hyperia,,,Red Rim,,,FALSE
+732,Hesperiidae,Pyrginae,BOL-SP,GENUS,Bolla,sp.,,,Bolla sp.,,,FALSE
+731,Hesperiidae,Pyrginae,BOLBRE,SPECIES,Bolla,brennus,,,Obscure Bolla,,,FALSE
+730,Hesperiidae,Pyrginae,BOLCLY,SPECIES,Bolla,clytius,,,Mottled Bolla,,,FALSE
+427,Nymphalidae,Heliconiinae,BOLO-SP,GENUS,Boloria,sp.,,,Lesser fritillary sp.,,,FALSE
+421,Nymphalidae,Heliconiinae,BOLOALB,SPECIES,Boloria,alberta,,,Alberta Fritillary,,,FALSE
+422,Nymphalidae,Heliconiinae,BOLOAST,SPECIES,Boloria,astarte,,,Astarte Fritillary,*,,FALSE
+423,Nymphalidae,Heliconiinae,BOLOAST,SUBSPECIES,Boloria,astarte,distincta,,Distinct' Astarte Fritillary,,,FALSE
+412,Nymphalidae,Heliconiinae,BOLOBEL,SPECIES,Boloria,bellona,,,Meadow Fritillary,,,FALSE
+425,Nymphalidae,Heliconiinae,BOLOCHA,SPECIES,Boloria,chariclea,,,Arctic Fritillary,*,B. c. montinus = titania (as per fu.net),FALSE
+418,Nymphalidae,Heliconiinae,BOLOEPI,SPECIES,Boloria,epithore,,,Pacific Fritillary,,,FALSE
+410,Nymphalidae,Heliconiinae,BOLOEUN,SPECIES,Boloria,eunomia,,,Bog Fritillary,,,FALSE
+420,Nymphalidae,Heliconiinae,BOLOFRE,SPECIES,Boloria,freija,,,Freija Fritillary,,,FALSE
+413,Nymphalidae,Heliconiinae,BOLOFRI,SPECIES,Boloria,frigga,,,Frigga Fritillary,,,FALSE
+414,Nymphalidae,Heliconiinae,BOLOIMP,SPECIES,Boloria,improba,,,Dingy Fritillary,,,FALSE
+415,Nymphalidae,Heliconiinae,BOLOIMP,SUBSPECIES,Boloria,improba,harryi,,'Wind River' Dingy Fritillary,,,FALSE
+417,Nymphalidae,Heliconiinae,BOLOKRI,SPECIES,Boloria,kriemhild,,,Relict Fritillary,,,FALSE
+424,Nymphalidae,Heliconiinae,BOLOMON,SPECIES,Boloria,montinus,,,Purplish Fritillary,*,(distinct from Old World titania) - Scott lists as B. titania,FALSE
+409,Nymphalidae,Heliconiinae,BOLONAP,SPECIES,Boloria,napaea,,,Mountain Fritillary,*,,FALSE
+426,Nymphalidae,Heliconiinae,BOLONAT,SPECIES,Boloria,natazhati,,,Cryptic Fritillary,,,FALSE
+419,Nymphalidae,Heliconiinae,BOLOPOL,SPECIES,Boloria,polaris,,,Polaris Fritillary,,,FALSE
+411,Nymphalidae,Heliconiinae,BOLOSEL,SPECIES,Boloria,selene,,,Silver-bordered Fritillary,,,FALSE
+271,Lycaenidae,Polyommatinae,BRE-SP,GENUS,Brephidium,sp.,,,Pygmy-Blue sp.,,,FALSE
+269,Lycaenidae,Polyommatinae,BREEXI,SPECIES,Brephidium,exile,,,Western Pygmy-Blue,,,FALSE
+270,Lycaenidae,Polyommatinae,BREISO,SPECIES,Brephidium,isophthalma,,,Eastern Pygmy-Blue,,"Scott doesn't meantion this species, but has an eastern ssp. Of exile - could some exile be isophthalma?",FALSE
+89,Pieridae,Coliadinae,C-COL,COMPLEX,Colias,philodice/eurytheme,,,Pooled Clouded/Orange Sulphers,,,FALSE
+715,Hesperiidae,Pyrginae,CABPOT,SPECIES,Cabares,potrillo,,,Potrillo Skipper,,,FALSE
+351,Riodinidae,,CAL-SP,GENUS,Calephelis,sp.,,,Calephelis sp.,,,FALSE
+350,Riodinidae,,CALARI,SPECIES,Calephelis,arizonensis,,,Arizona Metalmark,*,,FALSE
+342,Riodinidae,,CALBOR,SPECIES,Calephelis,borealis,,,Northern Metalmark,,,FALSE
+233,Lycaenidae,Theclinae,CALL-SP,GENUS,Callophrys,sp.,,,Callophrys sp.,,,FALSE
+213,Lycaenidae,Theclinae,CALLAUG,SPECIES,Callophrys,augustinus,,,Brown Elfin,,,FALSE
+202,Lycaenidae,Theclinae,CALLDUM,SPECIES,Callophrys,dumetorum,,,Bramble Hairstreak,*,,FALSE
+203,Lycaenidae,Theclinae,CALLDUM,SUBSPECIES,Callophrys,dumetorum,dumetorum,,Bramble' Bramble Hairstreak,,,FALSE
+204,Lycaenidae,Theclinae,CALLDUM,SUBSPECIES,Callophrys,dumetorum,viridis,,'Coastal' Bramble Hairstreak,,,FALSE
+205,Lycaenidae,Theclinae,CALLDUM,SUBSPECIES,Callophrys,dumetorum,apama,,Canyon' Bramble Hairstreak,,,FALSE
+206,Lycaenidae,Theclinae,CALLDUM,SUBSPECIES,Callophrys,dumetorum,affinis,,Immaculate' Bramble Hairstreak,,,FALSE
+221,Lycaenidae,Theclinae,CALLERY,SPECIES,Callophrys,eryphon,,,Western Pine Elfin,,,FALSE
+214,Lycaenidae,Theclinae,CALLFOT,SPECIES,Callophrys,fotis,,,Desert Elfin,,,FALSE
+224,Lycaenidae,Theclinae,CALLGRY,SPECIES,Callophrys,gryneus,,,Juniper Hairstreak,*,,FALSE
+225,Lycaenidae,Theclinae,CALLGRY,SUBSPECIES,Callophrys,gryneus,gryneus,,Olive' Juniper Hairstreak,,,FALSE
+226,Lycaenidae,Theclinae,CALLGRY,SUBSPECIES,Callophrys,gryneus,sweadneri,,Sweadner's' Juniper Hairstreak,,,FALSE
+227,Lycaenidae,Theclinae,CALLGRY,SUBSPECIES,Callophrys,gryneus,siva,,Siva' Juniper Hairstreak,,,FALSE
+228,Lycaenidae,Theclinae,CALLGRY,SUBSPECIES,Callophrys,gryneus,nelsoni,,Nelson's' Juniper Hairstreak,,,FALSE
+229,Lycaenidae,Theclinae,CALLGRY,SUBSPECIES,Callophrys,gryneus,muiri,,Muir's' Juniper Hairstreak,,,FALSE
+230,Lycaenidae,Theclinae,CALLGRY,SUBSPECIES,Callophrys,gryneus,loki,,Loki' Juniper Hairstreak,,,FALSE
+231,Lycaenidae,Theclinae,CALLGRY,SUBSPECIES,Callophrys,gryneus,thornei,,'Thorne's' Juniper Hairstreak,,,FALSE
+218,Lycaenidae,Theclinae,CALLHEN,SPECIES,Callophrys,henrici,,,Henry's Elfin,,,FALSE
+232,Lycaenidae,Theclinae,CALLHES,SPECIES,Callophrys,hesseli,,,Hessel's Hairstreak,,,FALSE
+217,Lycaenidae,Theclinae,CALLIRU,SPECIES,Callophrys,irus,,,Frosted Elfin,,,FALSE
+223,Lycaenidae,Theclinae,CALLJOH,SPECIES,Callophrys,johnsoni,,,Johnson's Hairstreak,,,FALSE
+219,Lycaenidae,Theclinae,CALLLAN,SPECIES,Callophrys,lanoraieensis,,,Bog Elfin,,,FALSE
+212,Lycaenidae,Theclinae,CALLMCF,SPECIES,Callophrys,mcfarlandi,,,Sandia Hairstreak,,,FALSE
+215,Lycaenidae,Theclinae,CALLMOS,SPECIES,Callophrys,mossii,,,Moss' Elfin,,,FALSE
+220,Lycaenidae,Theclinae,CALLNIP,SPECIES,Callophrys,niphon,,,Eastern Pine Elfin,,,FALSE
+216,Lycaenidae,Theclinae,CALLPOL,SPECIES,Callophrys,polios,,,Hoary Elfin,,,FALSE
+207,Lycaenidae,Theclinae,CALLSHE,SPECIES,Callophrys,sheridanii,,,Sheridan's Hairstreak,*,,FALSE
+208,Lycaenidae,Theclinae,CALLSHE,SUBSPECIES,Callophrys,sheridanii,sheridanii,,'White-lined' Sheridan's Hairstreak,,,FALSE
+209,Lycaenidae,Theclinae,CALLSHE,SUBSPECIES,Callophrys,sheridanii,comstocki,,'Desert' Sheridan's Hairstreak,,,FALSE
+210,Lycaenidae,Theclinae,CALLSHE,SUBSPECIES,Callophrys,sheridanii,lemberti,,Alpine' Sheridan's Hairstreak,,,FALSE
+222,Lycaenidae,Theclinae,CALLSPI,SPECIES,Callophrys,spinetorum,,,Thicket Hairstreak,,,FALSE
+211,Lycaenidae,Theclinae,CALLXAM,SPECIES,Callophrys,xami,,,Xami Hairstreak,,,FALSE
+346,Riodinidae,,CALMUT,SPECIES,Calephelis,mutica,,,Swamp Metalmark,,,FALSE
+343,Riodinidae,,CALNEM,SPECIES,Calephelis,nemesis,,,Fatal Metalmark,,,FALSE
+344,Riodinidae,,CALPER,SPECIES,Calephelis,perditalis,,,Rounded Metalmark,*,nilas = perditalis as per NABA explanation,FALSE
+957,Hesperiidae,Hesperiinae,CALPETH,SPECIES,Calpodes,ethlius,,,Brazilian Skipper,,,FALSE
+347,Riodinidae,,CALRAW,SPECIES,Calephelis,rawsoni,,,Rawson's Metalmark,*,,FALSE
+348,Riodinidae,,CALRAW,SUBSPECIES,Calephelis,rawsoni,rawsoni,,'Rawson's' Rawson's Metalmark,,,FALSE
+349,Riodinidae,,CALRAW,SUBSPECIES,Calephelis,rawsoni,freemani,,'Freeman's' Rawson's Metalmark,,,FALSE
+341,Riodinidae,,CALVIR,SPECIES,Calephelis,virginiensis,,,Little Metalmark,,,FALSE
+345,Riodinidae,,CALWRI,SPECIES,Calephelis,wrighti,,,Wright's Metalmark,,,FALSE
+257,Lycaenidae,Theclinae,CALY-SP,GENUS,Calycopis,sp.,,,Calycopis sp.,,,FALSE
+255,Lycaenidae,Theclinae,CALYCEC,SPECIES,Calycopis,cecrops,,,Red-banded Hairstreak,,,FALSE
+256,Lycaenidae,Theclinae,CALYISO,SPECIES,Calycopis,isobeon,,,Dusky-blue Groundstreak,,,TRUE
+352,Riodinidae,,CARINO,SPECIES,Caria,ino,,,Red-bordered Metalmark,,,FALSE
+739,Hesperiidae,Pyrginae,CARRCAN,SPECIES,Carrhenes,canescens,,,Hoary Skipper,,,FALSE
+801,Hesperiidae,Heteropterinae,CARTPAL,SPECIES,Carterocephalus,palaemon,,,Arctic Skipper,,,FALSE
+49,Pieridae,Pierinae,CATNIM,SPECIES,Catasticta,nimbice,,,Mexican Dartwhite,,,FALSE
+295,Lycaenidae,Polyommatinae,CEL-SP,GENUS,Celastrina,sp.,,,Azure sp.,,,FALSE
+718,Hesperiidae,Pyrginae,CELA-SP,GENUS,Celaenorrhinus,sp.,,,Celaenorrhinus sp.,,,FALSE
+716,Hesperiidae,Pyrginae,CELAFRI,SPECIES,Celaenorrhinus,fritzgaertneri,,,Fritzgaertner's Flat,,,FALSE
+717,Hesperiidae,Pyrginae,CELASTA,SPECIES,Celaenorrhinus,stallingsi,,,Stallings' Flat,,,FALSE
+285,Lycaenidae,Polyommatinae,CELLAD,SPECIES,Celastrina,ladon,,,Spring Azure,*,Scott uses argiolus instead of ladon,FALSE
+286,Lycaenidae,Polyommatinae,CELLAD,SUBSPECIES,Celastrina,ladon,ladon,,'Spring' Spring Azure,,,FALSE
+287,Lycaenidae,Polyommatinae,CELLAD,SUBSPECIES,Celastrina,ladon,violacea,,'Edward's' Spring Azure,,,FALSE
+288,Lycaenidae,Polyommatinae,CELLAD,SUBSPECIES,Celastrina,ladon,ssp.,,Cherry Gall' Spring Azure,,,FALSE
+289,Lycaenidae,Polyommatinae,CELLAD,SUBSPECIES,Celastrina,ladon,idella,,'Atlantic' Spring Azure,,,FALSE
+290,Lycaenidae,Polyommatinae,CELLAD,SUBSPECIES,Celastrina,ladon,humulus,,Hops' Spring Azure,,,FALSE
+291,Lycaenidae,Polyommatinae,CELLAD,SUBSPECIES,Celastrina,ladon,argentata,,'Manitoba' Spring Azure,,,FALSE
+292,Lycaenidae,Polyommatinae,CELLAD,SUBSPECIES,Celastrina,ladon,neglecta,,Summer' Spring Azure,,,FALSE
+293,Lycaenidae,Polyommatinae,CELNEG,SPECIES,Celastrina,neglectamajor,,,Appalachian Azure,,sub species as per Scott,FALSE
+294,Lycaenidae,Polyommatinae,CELNIG,SPECIES,Celastrina,nigra,,,Dusky Azure,,(=ebinina),FALSE
+791,Hesperiidae,Pyrginae,CELO-SP,GENUS,Celotes,sp.,,,Streaky-Skipper sp.,,,FALSE
+790,Hesperiidae,Pyrginae,CELOLIM,SPECIES,Celotes,limpia,,,Scarce Streaky-Skipper,,,FALSE
+789,Hesperiidae,Pyrginae,CELONES,SPECIES,Celotes,nessus,,,Common Streaky-Skipper,,,FALSE
+614,Nymphalidae,Satyrinae,CER-SP,GENUS,Cercyonis,sp.,,,Wood-Nymph sp.,,,FALSE
+611,Nymphalidae,Satyrinae,CERMEA,SPECIES,Cercyonis,meadii,,,Mead's Wood-Nymph,,,FALSE
+613,Nymphalidae,Satyrinae,CEROET,SPECIES,Cercyonis,oetus,,,Small Wood-Nymph,,,FALSE
+610,Nymphalidae,Satyrinae,CERPEG,SPECIES,Cercyonis,pegala,,,Common Wood-Nymph,,,FALSE
+612,Nymphalidae,Satyrinae,CERSTH,SPECIES,Cercyonis,sthenele,,,Great Basin Wood-Nymph,,,FALSE
+667,Hesperiidae,Pyrginae,CHI-SP,GENUS,Chioides,sp.,,,Longtail sp.,,,FALSE
+665,Hesperiidae,Pyrginae,CHICAT,SPECIES,Chioides,catillus,,,White-striped Longtail,,,TRUE
+751,Hesperiidae,Pyrginae,CHIO-SP,GENUS,Chiomara,sp.,,,Chiomara sp.,,,FALSE
+749,Hesperiidae,Pyrginae,CHIOASY,SPECIES,Chiomara,asychis,,,White-patched Skipper,*,,FALSE
+750,Hesperiidae,Pyrginae,CHIOMIT,SPECIES,Chiomara,mithrax,,,Slaty Skipper,*,,FALSE
+666,Hesperiidae,Pyrginae,CHIZIL,SPECIES,Chioides,zilpa,,,Zilpa Longtail,,,FALSE
+176,Lycaenidae,Theclinae,CHL-SP,GENUS,Chlorostrymon,sp.,,,Chlorostrymon sp.,,,FALSE
+173,Lycaenidae,Theclinae,CHLMAE,SPECIES,Chlorostrymon,maesites,,,Amethyst Hairstreak,,,FALSE
+452,Nymphalidae,Nymphalinae,CHLO-SP,GENUS,Chlosyne,sp.,,,Chlosyne sp.,,,FALSE
+449,Nymphalidae,Nymphalinae,CHLOACA,SPECIES,Chlosyne,acastus,,,Sagebrush Checkerspot,,,FALSE
+437,Nymphalidae,Nymphalinae,CHLOCAL,SPECIES,Chlosyne,californica,,,California Patch,,,FALSE
+433,Nymphalidae,Nymphalinae,CHLOCHI,SPECIES,Chlosyne,chinatiensis,,,Chinati Checkerspot,*,NABA changed genus to Chlosyne as per Jeff Glassberg (5/19/06),FALSE
+434,Nymphalidae,Nymphalinae,CHLOCYN,SPECIES,Chlosyne,cyneas,,,Black Checkerspot,,NABA changed genus to Chlosyne as per Jeff Glassberg (5/19/06),FALSE
+439,Nymphalidae,Nymphalinae,CHLODEF,SPECIES,Chlosyne,definita,,,Definite Patch,,,FALSE
+440,Nymphalidae,Nymphalinae,CHLOEND,SPECIES,Chlosyne,endeis,,,Banded Patch,,,FALSE
+435,Nymphalidae,Nymphalinae,CHLOFUL,SPECIES,Chlosyne,fulvia,,,Fulvia Checkerspot,,NABA changed genus to Chlosyne as per Jeff Glassberg (5/19/06),FALSE
+450,Nymphalidae,Nymphalinae,CHLOGAB,SPECIES,Chlosyne,gabbii,,,Gabb's Checkerspot,,,FALSE
+444,Nymphalidae,Nymphalinae,CHLOGOR,SPECIES,Chlosyne,gorgone,,,Gorgone Checkerspot,,,FALSE
+446,Nymphalidae,Nymphalinae,CHLOHAR,SPECIES,Chlosyne,harrisii,,,Harris' Checkerspot,,,FALSE
+451,Nymphalidae,Nymphalinae,CHLOHOF,SPECIES,Chlosyne,hoffmanni,,,Hoffmann's Checkerspot,,,FALSE
+441,Nymphalidae,Nymphalinae,CHLOJAN,SPECIES,Chlosyne,janais,,,Crimson Patch,,,TRUE
+438,Nymphalidae,Nymphalinae,CHLOLAC,SPECIES,Chlosyne,lacinia,,,Bordered Patch,,,FALSE
+436,Nymphalidae,Nymphalinae,CHLOLEA,SPECIES,Chlosyne,leanira,,,Leanira Checkerspot,,NABA changed genus to Chlosyne as per Jeff Glassberg (5/19/06),FALSE
+443,Nymphalidae,Nymphalinae,CHLOMAR,SPECIES,Chlosyne,marina,,,Red-spotted Patch,,,FALSE
+445,Nymphalidae,Nymphalinae,CHLONYC,SPECIES,Chlosyne,nycteis,,,Silvery Checkerspot,,,FALSE
+447,Nymphalidae,Nymphalinae,CHLOPAL,SPECIES,Chlosyne,palla,,,Northern Checkerspot,,,FALSE
+442,Nymphalidae,Nymphalinae,CHLOROS,SPECIES,Chlosyne,rosita,,,Rosita Patch,,,FALSE
+432,Nymphalidae,Nymphalinae,CHLOTHE,SPECIES,Chlosyne,theona,,,Theona Checkerspot,*,NABA changed genus to Chlosyne as per Jeff Glassberg (5/19/06),FALSE
+448,Nymphalidae,Nymphalinae,CHLOWHI,SPECIES,Chlosyne,whitneyi,,,Rockslide Checkerspot,,,FALSE
+175,Lycaenidae,Theclinae,CHLSIM,SPECIES,Chlorostrymon,simaethis,,,Silver-banded Hairstreak,,,FALSE
+174,Lycaenidae,Theclinae,CHLTEL,SPECIES,Chlorostrymon,telea,,,Telea Hairstreak,,,FALSE
+680,Hesperiidae,Pyrginae,COD-SP,GENUS,Codatractus,sp.,,,Codatractus sp.,,,FALSE
+677,Hesperiidae,Pyrginae,CODALC,SPECIES,Codatractus,alcaeus,,,White-crescent Longtail,,,FALSE
+678,Hesperiidae,Pyrginae,CODARI,SPECIES,Codatractus,arizonensis,,,Arizona Skipper,,,FALSE
+679,Hesperiidae,Pyrginae,CODMYS,SPECIES,Codatractus,mysie,,,Valeriana Skipper,*,Thorybes valeriana as per Scott,FALSE
+609,Nymphalidae,Satyrinae,COE-SP,GENUS,Coenonympha,sp.,,,Ringlet sp.,,,FALSE
+602,Nymphalidae,Satyrinae,COEHAY,SPECIES,Coenonympha,haydenii,,,Hayden's Ringlet,,,FALSE
+603,Nymphalidae,Satyrinae,COETUL,SPECIES,Coenonympha,tullia,,,Common Ringlet,*,,FALSE
+604,Nymphalidae,Satyrinae,COETUL,SUBSPECIES,Coenonympha,tullia,inornata,,Inornate' Common Ringlet,,,FALSE
+605,Nymphalidae,Satyrinae,COETUL,SUBSPECIES,Coenonympha,tullia,nipisiquit,,'Salt Marsh' Common Ringlet,*,,FALSE
+606,Nymphalidae,Satyrinae,COETUL,SUBSPECIES,Coenonympha,tullia,ochracea,,Ochre' Common Ringlet,,,FALSE
+607,Nymphalidae,Satyrinae,COETUL,SUBSPECIES,Coenonympha,tullia,ampelos,,Northwest' Common Ringlet,,,FALSE
+608,Nymphalidae,Satyrinae,COETUL,SUBSPECIES,Coenonympha,tullia,california,,California' Common Ringlet,,,FALSE
+724,Hesperiidae,Pyrginae,COG-SP,GENUS,Cogia,sp.,,,Cogia sp.,,,FALSE
+723,Hesperiidae,Pyrginae,COGCAI,SPECIES,Cogia,caicus,,,Gold-costa Skipper,*,,FALSE
+720,Hesperiidae,Pyrginae,COGCAL,SPECIES,Cogia,calchas,,,Mimosa Skipper,,,FALSE
+721,Hesperiidae,Pyrginae,COGHIP,SPECIES,Cogia,hippalus,,,Acacia Skipper,,,FALSE
+722,Hesperiidae,Pyrginae,COGOUT,SPECIES,Cogia,outis,,,Outis Skipper,,,FALSE
+113,Pieridae,Coliadinae,COL-SP,GENUS,Colias,sp.,,,Colias sp.,,,FALSE
+95,Pieridae,Coliadinae,COLALE,SPECIES,Colias,alexandra,,,Queen Alexandra's Sulphur,*,,FALSE
+96,Pieridae,Coliadinae,COLALE,SUBSPECIES,Colias,alexandra,harfordii,,'Harford's' Queen Alexandra's Sulphur,,,FALSE
+97,Pieridae,Coliadinae,COLALE,SUBSPECIES,Colias,alexandra,krauthii,,Queen Alexandra's Sulphur,,,FALSE
+107,Pieridae,Coliadinae,COLBEH,SPECIES,Colias,behrii,,,Sierra Sulphur,,,FALSE
+102,Pieridae,Coliadinae,COLBOO,SPECIES,Colias,boothi,,,Booth's Sulphur,*,hybrid of hecla x nastes?,FALSE
+100,Pieridae,Coliadinae,COLCAN,SPECIES,Colias,canadensis,,,Canadian Sulphur,,,FALSE
+112,Pieridae,Coliadinae,COLCES,SPECIES,Colias,cesonia,,,Southern Dogface,,,FALSE
+94,Pieridae,Coliadinae,COLCHR,SPECIES,Colias,christina,,,Christina's Sulphur,*,Scott treats christina as ssp. Of C. alexandra,FALSE
+111,Pieridae,Coliadinae,COLEU1,SPECIES,Colias,eurydice,,,California Dogface,,,FALSE
+88,Pieridae,Coliadinae,COLEU2,SPECIES,Colias,eurytheme,,,Orange Sulphur,,,FALSE
+106,Pieridae,Coliadinae,COLGIG,SPECIES,Colias,gigantea,,,Giant Sulphur,,,FALSE
+101,Pieridae,Coliadinae,COLHEC,SPECIES,Colias,hecla,,,Hecla Sulphur,,,FALSE
+109,Pieridae,Coliadinae,COLINT,SPECIES,Colias,interior,,,Pink-edged Sulphur,,,FALSE
+99,Pieridae,Coliadinae,COLJOH,SPECIES,Colias,johanseni,,,Coppermine Sulphur,*,,FALSE
+98,Pieridae,Coliadinae,COLMEA,SPECIES,Colias,meadii,,,Mead's Sulphur,*,,FALSE
+103,Pieridae,Coliadinae,COLNAS,SPECIES,Colias,nastes,,,Labrador Sulphur,,,FALSE
+104,Pieridae,Coliadinae,COLNAS,SUBSPECIES,Colias,nastes,thula,,Labrador Sulphur,,,FALSE
+91,Pieridae,Coliadinae,COLOCC,SPECIES,Colias,occidentalis,,,Western Sulphur,*,,FALSE
+92,Pieridae,Coliadinae,COLOCC,SUBSPECIES,Colias,occidentalis,chrysomelas,,Western Sulphur,,,FALSE
+93,Pieridae,Coliadinae,COLOCC,SUBSPECIES,Colias,occidentalis,pseudochristina,,Western Sulphur,*,,FALSE
+110,Pieridae,Coliadinae,COLPAL,SPECIES,Colias,palaeno,,,Palaeno Sulphur,,,FALSE
+108,Pieridae,Coliadinae,COLPEL,SPECIES,Colias,pelidne,,,Pelidne Sulphur,,,FALSE
+87,Pieridae,Coliadinae,COLPHI,SPECIES,Colias,philodice,,,Clouded Sulphur,,,FALSE
+105,Pieridae,Coliadinae,COLSCU,SPECIES,Colias,scudderi,,,Scudder's Sulphur,,,FALSE
+831,Hesperiidae,Hesperiinae,CONCHY,SPECIES,Conga,chydaea,,,Hidden-ray Skipper,,,FALSE
+841,Hesperiidae,Hesperiinae,COP-SP,GENUS,Copaeodes,sp.,,,Skipperling sp.,,,FALSE
+839,Hesperiidae,Hesperiinae,COPAUR,SPECIES,Copaeodes,aurantiacus,,,Orange Skipperling,,,FALSE
+840,Hesperiidae,Hesperiinae,COPMIN,SPECIES,Copaeodes,minimus,,,Southern Skipperling,,,FALSE
+814,Hesperiidae,Hesperiinae,CORCOR,SPECIES,Corticea,corticea,,,Redundant Skipper,,,FALSE
+201,Lycaenidae,Theclinae,CYA-SP,GENUS,Cyanophrys,sp.,,,Greenstreak sp.,,,FALSE
+199,Lycaenidae,Theclinae,CYAGOO,SPECIES,Cyanophrys,goodsoni,,,Goodson's Greenstreak,,SCOTT uses Callophrys,FALSE
+200,Lycaenidae,Theclinae,CYAHER,SPECIES,Cyanophrys,herodotus,,,Tropical Greenstreak,,SCOTT uses Callophrys,FALSE
+198,Lycaenidae,Theclinae,CYAMIS,SPECIES,Cyanophrys,miserabilis,,,Clench's Greenstreak,,SCOTT uses Callophrys,FALSE
+593,Nymphalidae,Satyrinae,CYL-SP,GENUS,Cyllopsis,sp.,,,Cyllopsis sp.,,,FALSE
+592,Nymphalidae,Satyrinae,CYLGEM,SPECIES,Cyllopsis,gemma,,,Gemmed Satyr,,,FALSE
+591,Nymphalidae,Satyrinae,CYLPER,SPECIES,Cyllopsis,pertepida,,,Canyonland Satyr,,,FALSE
+588,Nymphalidae,Satyrinae,CYLPYR,SPECIES,Cyllopsis,pyracmon,,,Nabokov's Satyr,,,FALSE
+589,Nymphalidae,Satyrinae,CYLPYR,SUBSPECIES,Cyllopsis,pyracmon,pyracmon,,'Nabokov's' Nabokov's Satyr,,,FALSE
+590,Nymphalidae,Satyrinae,CYLPYR,SUBSPECIES,Cyllopsis,pyracmon,henshawi,,'Henshaw's' Nabokov's Satyr,,,FALSE
+823,Hesperiidae,Hesperiinae,CYM-SP,GENUS,Cymaenes,sp.,,,Cymaenes sp.,,,FALSE
+822,Hesperiidae,Hesperiinae,CYMODI,SPECIES,Cymaenes,odilia,,,Fawn-spotted Skipper,,,FALSE
+821,Hesperiidae,Hesperiinae,CYMTRI,SPECIES,Cymaenes,tripunctus,,,Three-spotted Skipper,,,FALSE
+650,Nymphalidae,Danainae,DAN-SP,GENUS,Danaus,sp.,,,Milkweed sp.,,,FALSE
+649,Nymphalidae,Danainae,DANERE,SPECIES,Danaus,eresimus,,,Soldier,,,TRUE
+648,Nymphalidae,Danainae,DANGIL,SPECIES,Danaus,gilippus,,,Queen,,,TRUE
+647,Nymphalidae,Danainae,DANPLE,SPECIES,Danaus,plexippus,,,Monarch,,,TRUE
+830,Hesperiidae,Hesperiinae,DECPER,SPECIES,Decinea,percosius,,,Double-dotted Skipper,,,FALSE
+376,Nymphalidae,Heliconiinae,DIOMON,SPECIES,Dione,moneta,,,Mexican Silverspot,,,FALSE
+646,Nymphalidae,Ithomiinae,DIRKLU,SPECIES,Dircenna,klugii,,,Klug's Clearwing,,,FALSE
+578,Nymphalidae,Apaturinae,DOX-SP,GENUS,Doxocopa,sp.,,,Doxocopa sp.,,,FALSE
+577,Nymphalidae,Apaturinae,DOXLAU,SPECIES,Doxocopa,laure,,,Silver Emperor,,,FALSE
+576,Nymphalidae,Apaturinae,DOXPAV,SPECIES,Doxocopa,pavon,,,Pavon Emperor,,,FALSE
+378,Nymphalidae,Heliconiinae,DRYAJUL,SPECIES,Dryas,iulia,,,Julia Heliconian,*,,TRUE
+377,Nymphalidae,Heliconiinae,DRYPHA,SPECIES,Dryadula,phaetusa,,,Banded Orange Heliconian,,,FALSE
+454,Nymphalidae,Nymphalinae,DYMDYM,SPECIES,Dymasia,dymas,,,Tiny Checkerspot,,,FALSE
+455,Nymphalidae,Nymphalinae,DYMDYM,SUBSPECIES,Dymasia,dymas,chara,,Tiny Checkerspot,,,FALSE
+544,Nymphalidae,Limenitidinae,DYNDYO,SPECIES,Dynamine,dyonis,,,Blue-eyed Sailor,,,FALSE
+254,Lycaenidae,Theclinae,ELE-SP,GENUS,Electrostrymon,sp.,,,Electrostrymon sp.,,,FALSE
+252,Lycaenidae,Theclinae,ELEANG,SPECIES,Electrostrymon,angelia,,,Fulvous Hairstreak,,,FALSE
+253,Lycaenidae,Theclinae,ELECAN,SPECIES,Electrostrymon,canus,,,Muted Hairstreak,,,FALSE
+251,Lycaenidae,Theclinae,ELESAN,SPECIES,Electrostrymon,sangala,,,Ruddy Hairstreak,,,FALSE
+359,Riodinidae,,EME-SP,GENUS,Emesis,sp.,,,Emesis sp.,,,FALSE
+356,Riodinidae,,EMEARE,SPECIES,Emesis,ares,,,Ares Metalmark,,,FALSE
+357,Riodinidae,,EMEEME,SPECIES,Emesis,emesia,,,Curve-winged Metalmark,,,FALSE
+358,Riodinidae,,EMETEN,SPECIES,Emesis,tenedia,,,Falcate Metalmark,,,FALSE
+355,Riodinidae,,EMEZEL,SPECIES,Emesis,zela,,,Zela Metalmark,,,FALSE
+139,Pieridae,Dismorphiinae,ENAALB,SPECIES,Enantia,albania,,,Costa-spotted Mimic-White,,,FALSE
+584,Nymphalidae,Satyrinae,ENO-SP,GENUS,Enodia,sp.,,,Pearly-eye sp.,,,FALSE
+582,Nymphalidae,Satyrinae,ENOANT,SPECIES,Enodia,anthedon,,,Northern Pearly-eye,,"Scott uses Lethe, anthedon sometimes a ssp of portlandia",FALSE
+583,Nymphalidae,Satyrinae,ENOCRE,SPECIES,Enodia,creola,,,Creole Pearly-eye,,Scott uses Lethe,FALSE
+581,Nymphalidae,Satyrinae,ENOPOR,SPECIES,Enodia,portlandia,,,Southern Pearly-eye,,"Scott uses Lethe, anthedon sometimes a ssp of portlandia",FALSE
+661,Hesperiidae,Pyrginae,EPA-SP,GENUS,Epargyreus,sp.,,,Epargyreus sp.,,,FALSE
+659,Hesperiidae,Pyrginae,EPACLA,SPECIES,Epargyreus,clarus,,,Silver-spotted Skipper,,,FALSE
+660,Hesperiidae,Pyrginae,EPAEXA,SPECIES,Epargyreus,exadeus,,,Broken Silverdrop,,,FALSE
+658,Hesperiidae,Pyrginae,EPAZES,SPECIES,Epargyreus,zestos,,,Zestos Skipper,,,FALSE
+753,Hesperiidae,Pyrginae,EPHBRU,SPECIES,Ephyriades,brunneus,,,Florida Duskywing,,,FALSE
+537,Nymphalidae,Limenitidinae,EPIADR,SPECIES,Epiphile,adrasta,,,Common Banner,,,FALSE
+628,Nymphalidae,Satyrinae,ERE-SP,GENUS,Erebia,sp.,,,Alpine sp.,,,FALSE
+625,Nymphalidae,Satyrinae,ERECAL,SPECIES,Erebia,callias,,,Colorado Alpine,,,FALSE
+623,Nymphalidae,Satyrinae,EREDAB,SPECIES,Erebia,dabanensis,,,Four-dotted Alpine,*,(includes youngi ),FALSE
+617,Nymphalidae,Satyrinae,EREDI1,SPECIES,Erebia,disa,,,Disa Alpine,*,,FALSE
+621,Nymphalidae,Satyrinae,EREDI2,SPECIES,Erebia,discoidalis,,,Red-disked Alpine,,,FALSE
+624,Nymphalidae,Satyrinae,EREEPI,SPECIES,Erebia,epipsodea,,,Common Alpine,,,FALSE
+620,Nymphalidae,Satyrinae,EREFAS,SPECIES,Erebia,fasciata,,,Banded Alpine,,,FALSE
+626,Nymphalidae,Satyrinae,EREKOZ,SPECIES,Erebia,kozhantshikovi,,,Reddish Alpine,*,(includes lafontainei ),FALSE
+619,Nymphalidae,Satyrinae,EREMAG,SPECIES,Erebia,magdalena,,,Magdalena Alpine,*,includes mackingleyensis as per fu.net,FALSE
+618,Nymphalidae,Satyrinae,EREMAN,SPECIES,Erebia,mancinus,,,Taiga Alpine,*,,FALSE
+627,Nymphalidae,Satyrinae,EREOCC,SPECIES,Erebia,occulta,,,Eskimo Alpine,*,,FALSE
+616,Nymphalidae,Satyrinae,EREROS,SPECIES,Erebia,rossii,,,Ross' Alpine,,,FALSE
+622,Nymphalidae,Satyrinae,ERETHE,SPECIES,Erebia,theano,,,Theano Alpine,,,FALSE
+615,Nymphalidae,Satyrinae,EREVID,SPECIES,Erebia,vidleri,,,Vidler's Alpine,,,FALSE
+809,Hesperiidae,Hesperiinae,ERITHR,SPECIES,Erionota,thrax,,,Banana Skipper,*,,FALSE
+267,Lycaenidae,Theclinae,ERO-SP,GENUS,Erora,sp.,,,Erora sp.,,,FALSE
+265,Lycaenidae,Theclinae,EROLAE,SPECIES,Erora,laeta,,,Early Hairstreak,,,FALSE
+266,Lycaenidae,Theclinae,EROQUA,SPECIES,Erora,quaderna,,,Arizona Hairstreak,,,FALSE
+772,Hesperiidae,Pyrginae,ERY-SP,GENUS,Erynnis,sp.,,,Duskywing sp.,,,FALSE
+770,Hesperiidae,Pyrginae,ERYAFR,SPECIES,Erynnis,afranius,,,Afranius Duskywing,,,FALSE
+769,Hesperiidae,Pyrginae,ERYBAP,SPECIES,Erynnis,baptisiae,,,Wild Indigo Duskywing,,,FALSE
+755,Hesperiidae,Pyrginae,ERYBRI,SPECIES,Erynnis,brizo,,,Sleepy Duskywing,,,FALSE
+767,Hesperiidae,Pyrginae,ERYFUN,SPECIES,Erynnis,funeralis,,,Funereal Duskywing,,,FALSE
+762,Hesperiidae,Pyrginae,ERYHOR,SPECIES,Erynnis,horatius,,,Horace's Duskywing,,,FALSE
+754,Hesperiidae,Pyrginae,ERYICE,SPECIES,Erynnis,icelus,,,Dreamy Duskywing,,,FALSE
+756,Hesperiidae,Pyrginae,ERYJUV,SPECIES,Erynnis,juvenalis,,,Juvenal's Duskywing,,,FALSE
+757,Hesperiidae,Pyrginae,ERYJUV,SUBSPECIES,Erynnis,juvenalis,clitus,,'Arizona' Juvenal's Duskywing,,,FALSE
+768,Hesperiidae,Pyrginae,ERYLUC,SPECIES,Erynnis,lucilius,,,Columbine Duskywing,,,FALSE
+764,Hesperiidae,Pyrginae,ERYMAR,SPECIES,Erynnis,martialis,,,Mottled Duskywing,,,FALSE
+760,Hesperiidae,Pyrginae,ERYMER,SPECIES,Erynnis,meridianus,,,Meridian Duskywing,,,FALSE
+765,Hesperiidae,Pyrginae,ERYPAC,SPECIES,Erynnis,pacuvius,,,Pacuvius Duskywing,,,FALSE
+771,Hesperiidae,Pyrginae,ERYPER,SPECIES,Erynnis,persius,,,Persius Duskywing,,,FALSE
+759,Hesperiidae,Pyrginae,ERYPRO,SPECIES,Erynnis,propertius,,,Propertius Duskywing,,,FALSE
+761,Hesperiidae,Pyrginae,ERYSCU,SPECIES,Erynnis,scudderi,,,Scudder's Duskywing,,,FALSE
+758,Hesperiidae,Pyrginae,ERYTEL,SPECIES,Erynnis,telemachus,,,Rocky Mountain Duskywing,,,FALSE
+763,Hesperiidae,Pyrginae,ERYTRI,SPECIES,Erynnis,tristis,,,Mournful Duskywing,,,FALSE
+766,Hesperiidae,Pyrginae,ERYZAR,SPECIES,Erynnis,zarucco,,,Zarucco Duskywing,,,FALSE
+77,Pieridae,Pierinae,EUC-SP,GENUS,Euchloe,sp.,,,Marble sp.,,,FALSE
+69,Pieridae,Pierinae,EUCAUS,SPECIES,Euchloe,ausonides,,,Large Marble,,,FALSE
+71,Pieridae,Pierinae,EUCCRE,SPECIES,Euchloe,creusa,,,Northern Marble,,,FALSE
+72,Pieridae,Pierinae,EUCGUA,SPECIES,Euchloe,guaymasensis,,,Sonoran Marble,*,,FALSE
+73,Pieridae,Pierinae,EUCHYA,SPECIES,Euchloe,hyantis,,,Pearly Marble,*,,FALSE
+74,Pieridae,Pierinae,EUCHYA,SUBSPECIES,Euchloe,hyantis,hyantis,,'California' Pearly Marble,,,FALSE
+75,Pieridae,Pierinae,EUCHYA,SUBSPECIES,Euchloe,hyantis,lotta,,'Desert' Pearly Marble,,,FALSE
+70,Pieridae,Pierinae,EUCNAI,SPECIES,Euchloe,naina,,,Green Marble,*,,FALSE
+76,Pieridae,Pierinae,EUCOLY,SPECIES,Euchloe,olympia,,,Olympia Marble,,,FALSE
+379,Nymphalidae,Heliconiinae,EUEISA,SPECIES,Eueides,isabella,,,Isabella's Heliconian,,,FALSE
+165,Lycaenidae,Theclinae,EUMATA,SPECIES,Eumaeus,atala,,,Atala,,,FALSE
+543,Nymphalidae,Limenitidinae,EUN-SP,GENUS,Eunica,sp.,,,Eunica sp.,,,FALSE
+541,Nymphalidae,Limenitidinae,EUNMON,SPECIES,Eunica,monima,,,Dingy Purplewing,,,FALSE
+542,Nymphalidae,Limenitidinae,EUNTAT,SPECIES,Eunica,tatila,,,Florida Purplewing,,,FALSE
+312,Lycaenidae,Polyommatinae,EUP-SP,GENUS,Euphilotes,sp.,,,Euphilotes sp.,,,FALSE
+298,Lycaenidae,Polyommatinae,EUPBAT,SPECIES,Euphilotes,battoides,,,Square-spotted Blue,*,,FALSE
+299,Lycaenidae,Polyommatinae,EUPBAT,SUBSPECIES,Euphilotes,battoides,allyni,,'El Segundo' Square-spotted Blue,,,FALSE
+300,Lycaenidae,Polyommatinae,EUPBAT,SUBSPECIES,Euphilotes,battoides,bernardino,,Bernardino' Square-spotted Blue,,,FALSE
+301,Lycaenidae,Polyommatinae,EUPBAT,SUBSPECIES,Euphilotes,battoides,intermedia,,Square-spotted Blue,,,FALSE
+302,Lycaenidae,Polyommatinae,EUPBAT,SUBSPECIES,Euphilotes,battoides,baueri,,Square-spotted Blue,,,FALSE
+303,Lycaenidae,Polyommatinae,EUPBAT,SUBSPECIES,Euphilotes,battoides,centralis,,Square-spotted Blue,,,FALSE
+304,Lycaenidae,Polyommatinae,EUPBAT,SUBSPECIES,Euphilotes,battoides,ellisi,,Square-spotted Blue,,,FALSE
+305,Lycaenidae,Polyommatinae,EUPENO,SPECIES,Euphilotes,enoptes,,,Dotted Blue,*,,FALSE
+306,Lycaenidae,Polyommatinae,EUPENO,SUBSPECIES,Euphilotes,enoptes,mojave,,'Mojave' Dotted Blue,,,FALSE
+307,Lycaenidae,Polyommatinae,EUPENO,SUBSPECIES,Euphilotes,enoptes,dammersi,,Dammer's' Dotted Blue,,,FALSE
+308,Lycaenidae,Polyommatinae,EUPENO,SUBSPECIES,Euphilotes,enoptes,ancilla,,Dotted Blue,,,FALSE
+482,Nymphalidae,Nymphalinae,EUPH-SP,GENUS,Euphydryas,sp.,,,Euphydryas sp.,,,FALSE
+476,Nymphalidae,Nymphalinae,EUPHCHA,SPECIES,Euphydryas,chalcedona,,,Variable Checkerspot,,,FALSE
+477,Nymphalidae,Nymphalinae,EUPHCHA,SUBSPECIES,Euphydryas,chalcedona,chalcedona,,Chalcedon' Variable Checkerspot,,,FALSE
+478,Nymphalidae,Nymphalinae,EUPHCHA,SUBSPECIES,Euphydryas,chalcedona,colon,,'Snowberry' Variable Checkerspot,,,FALSE
+479,Nymphalidae,Nymphalinae,EUPHCHA,SUBSPECIES,Euphydryas,chalcedona,anicia,,Anicia' Variable Checkerspot,,,FALSE
+480,Nymphalidae,Nymphalinae,EUPHEDI,SPECIES,Euphydryas,editha,,,Edith's Checkerspot,,,FALSE
+475,Nymphalidae,Nymphalinae,EUPHGIL,SPECIES,Euphydryas,gillettii,,,Gillett's Checkerspot,*,,FALSE
+481,Nymphalidae,Nymphalinae,EUPHPHA,SPECIES,Euphydryas,phaeton,,,Baltimore Checkerspot,,,FALSE
+309,Lycaenidae,Polyommatinae,EUPRIT,SPECIES,Euphilotes,rita,,,Rita Blue,*,,FALSE
+310,Lycaenidae,Polyommatinae,EUPRIT,SUBSPECIES,Euphilotes,rita,pallescens,,'Pale' Rita Blue,,,FALSE
+311,Lycaenidae,Polyommatinae,EUPSPA,SPECIES,Euphilotes,spaldingi,,,Spalding's Blue,,,FALSE
+385,Nymphalidae,Heliconiinae,EUPT-SP,GENUS,Euptoieta,sp.,,,Euptoieta sp.,,,FALSE
+383,Nymphalidae,Heliconiinae,EUPTCLA,SPECIES,Euptoieta,claudia,,,Variegated Fritillary,,,FALSE
+384,Nymphalidae,Heliconiinae,EUPTHEG,SPECIES,Euptoieta,hegesia,,,Mexican Fritillary,,,FALSE
+916,Hesperiidae,Hesperiinae,EUPY-SP,GENUS,Euphyes,sp.,,,Euphyes sp.,,,FALSE
+907,Hesperiidae,Hesperiinae,EUPYARP,SPECIES,Euphyes,arpa,,,Palmetto Skipper,,,FALSE
+910,Hesperiidae,Hesperiinae,EUPYBAY,SPECIES,Euphyes,bayensis,,,Bay Skipper,,,FALSE
+913,Hesperiidae,Hesperiinae,EUPYBER,SPECIES,Euphyes,berryi,,,Berry's Skipper,,,FALSE
+914,Hesperiidae,Hesperiinae,EUPYBIM,SPECIES,Euphyes,bimacula,,,Two-spotted Skipper,,,FALSE
+912,Hesperiidae,Hesperiinae,EUPYCON,SPECIES,Euphyes,conspicua,,,Black Dash,,,FALSE
+909,Hesperiidae,Hesperiinae,EUPYDIO,SPECIES,Euphyes,dion,,,Dion Skipper,,,FALSE
+911,Hesperiidae,Hesperiinae,EUPYDUK,SPECIES,Euphyes,dukesi,,,Dukes' Skipper,,,FALSE
+908,Hesperiidae,Hesperiinae,EUPYPIL,SPECIES,Euphyes,pilatka,,,Palatka Skipper,,,FALSE
+915,Hesperiidae,Hesperiinae,EUPYVES,SPECIES,Euphyes,vestris,,,Dun Skipper,,,FALSE
+136,Pieridae,Coliadinae,EUR-SP,GENUS,Eurema,sp.,,,Eurema sp.,,,FALSE
+126,Pieridae,Coliadinae,EURALB,SPECIES,Eurema,albula,,,Ghost Yellow,*,,FALSE
+127,Pieridae,Coliadinae,EURBOI,SPECIES,Eurema,boisduvaliana,,,Boisduval's Yellow,,,FALSE
+125,Pieridae,Coliadinae,EURDAI,SPECIES,Eurema,daira,,,Barred Yellow,,,FALSE
+134,Pieridae,Coliadinae,EURDIN,SPECIES,Eurema,dina,,,Dina Yellow,,,FALSE
+131,Pieridae,Coliadinae,EURLIS,SPECIES,Eurema,lisa,,,Little Yellow,,,FALSE
+133,Pieridae,Coliadinae,EURMES,SPECIES,Eurema,messalina,,,Shy Yellow,,,FALSE
+128,Pieridae,Coliadinae,EURMEX,SPECIES,Eurema,mexicana,,,Mexican Yellow,,,FALSE
+135,Pieridae,Coliadinae,EURNIC,SPECIES,Eurema,nicippe,,,Sleepy Orange,,,FALSE
+132,Pieridae,Coliadinae,EURNIS,SPECIES,Eurema,nise,,,Mimosa Yellow,,,TRUE
+130,Pieridae,Coliadinae,EURPRO,SPECIES,Eurema,proterpia,,,Tailed Orange,,,TRUE
+129,Pieridae,Coliadinae,EURSAL,SPECIES,Eurema,salome,,,Salome Yellow,,,FALSE
+16,Papilionidae,Papilioninae,EURY-SP,GENUS,Eurytides,sp.,,,Eurytides sp.,,,FALSE
+14,Papilionidae,Papilioninae,EURYMAR,SPECIES,Eurytides,marcellus,,,Zebra Swallowtail,,,FALSE
+15,Papilionidae,Papilioninae,EURYPHI,SPECIES,Eurytides,philolaus,,,Dark Kite-Swallowtail,,,FALSE
+284,Lycaenidae,Polyommatinae,EVE-SP,GENUS,Everes,sp.,,,Tailed-Blue sp.,,,FALSE
+283,Lycaenidae,Polyommatinae,EVEAMY,SPECIES,Everes,amyntula,,,Western Tailed-Blue,,,FALSE
+282,Lycaenidae,Polyommatinae,EVECOM,SPECIES,Everes,comyntas,,,Eastern Tailed-Blue,,,FALSE
+652,Hesperiidae,,F-HESP,FAMILY,Hesperiidae,sp.,,,Skipper sp.,,,FALSE
+140,Lycaenidae,,F-LYCA,FAMILY,Lycaenidae,sp.,,,Gossamer Wing sp.,,,FALSE
+373,Nymphalidae,,F-NYMP,FAMILY,Nymphalidae,sp.,,,Brushfoot sp.,,,FALSE
+2,Papilionidae,,F-PAPI,FAMILY,Papilionidae,sp.,,,Papilionid sp.,,,FALSE
+48,Pieridae,,F-PIER,FAMILY,Pieridae,sp.,,,Pierid sp.,,,FALSE
+340,Riodinidae,,F-RIOD,FAMILY,Riodinidae,sp.,,,Metalmark sp.,,,FALSE
+141,Lycaenidae,Miletinae,FENTAR,SPECIES,Feniseca,tarquinius,,,Harvester,,,FALSE
+68,Pieridae,Pierinae,GAN-SP,GENUS,Ganyra,sp.,,,Ganyra sp.,,,FALSE
+67,Pieridae,Pierinae,GANHOW,SPECIES,Ganyra,howarthii,,,Howarth's White,*,,FALSE
+66,Pieridae,Pierinae,GANJOS,SPECIES,Ganyra,josephina,,,Giant White,,,FALSE
+752,Hesperiidae,Pyrginae,GESGES,SPECIES,Gesta,gesta,,,False Duskywing,*,,TRUE
+318,Lycaenidae,Polyommatinae,GLA-SP,GENUS,Glaucopsyche,sp.,,,Glaucopsyche sp.,,,FALSE
+316,Lycaenidae,Polyommatinae,GLALYG,SPECIES,Glaucopsyche,lygdamus,,,Silvery Blue,,,FALSE
+315,Lycaenidae,Polyommatinae,GLAPIA,SPECIES,Glaucopsyche,piasus,,,Arrowhead Blue,,,FALSE
+317,Lycaenidae,Polyommatinae,GLAXER,SPECIES,Glaucopsyche,xerces,,,Xerces Blue,,,FALSE
+737,Hesperiidae,Pyrginae,GORBEG,SPECIES,Gorgythion,begga,,,Variegated Skipper,,,FALSE
+747,Hesperiidae,Pyrginae,GRASTI,SPECIES,Grais,stigmatica,,,Hermit Skipper,,,FALSE
+90,Pieridae,Coliadinae,H-COL,HYBRID,Colias,philodiceXeurytheme,,,Hybrid Clouded/Orange Sulphers,,,FALSE
+524,Nymphalidae,Limenitidinae,H-LIM1,HYBRID,Limenitis,arthemis artXast,,,Hybrid arthemisXastyanax,,,FALSE
+528,Nymphalidae,Limenitidinae,H-LIM2,HYBRID,Limenitis,archippusXweidemeyerii,,,Hybrid archippusXweidemeyerii,,,FALSE
+529,Nymphalidae,Limenitidinae,H-LIM3,HYBRID,Limenitis,arthemisXweidemeyerii,,,Hybrid arthemisXweidemeyerii,,,FALSE
+530,Nymphalidae,Limenitidinae,H-LIM4,HYBRID,Limenitis,arthemisXarchippus,,,Hybrid arthemisXarchippus,,,FALSE
+531,Nymphalidae,Limenitidinae,H-LIM5,HYBRID,Limenitis,lorquiniXarthemis,,,Hybrid lorquiniXarthemis,,,FALSE
+164,Lycaenidae,Theclinae,HABGRU,SPECIES,Habrodais,grunus,,,Golden Hairstreak,,,FALSE
+554,Nymphalidae,Limenitidinae,HAM-SP,GENUS,Hamadryas,sp.,,,Cracker sp.,,,FALSE
+551,Nymphalidae,Limenitidinae,HAMAM1,SPECIES,Hamadryas,amphichloe,,,Pale Cracker,,,FALSE
+547,Nymphalidae,Limenitidinae,HAMAM2,SPECIES,Hamadryas,amphinome,,,Red Cracker,,,FALSE
+553,Nymphalidae,Limenitidinae,HAMATL,SPECIES,Hamadryas,atlantis,,,Black-patched Cracker,,,FALSE
+548,Nymphalidae,Limenitidinae,HAMFEB,SPECIES,Hamadryas,februa,,,Gray Cracker,,,FALSE
+549,Nymphalidae,Limenitidinae,HAMFER,SPECIES,Hamadryas,feronia,,,Variable Cracker,,,FALSE
+550,Nymphalidae,Limenitidinae,HAMGLA,SPECIES,Hamadryas,glauconome,,,Glaucous Cracker,,,FALSE
+552,Nymphalidae,Limenitidinae,HAMGUA,SPECIES,Hamadryas,guatemalena,,,Guatemalan Cracker,,,FALSE
+382,Nymphalidae,Heliconiinae,HEL-SP,GENUS,Heliconius,sp.,,,Heliconius sp.,,,FALSE
+380,Nymphalidae,Heliconiinae,HELCHA,SPECIES,Heliconius,charithonia,,,Zebra Heliconian,*,,TRUE
+381,Nymphalidae,Heliconiinae,HELERA,SPECIES,Heliconius,erato,,,Erato Heliconian,,,FALSE
+787,Hesperiidae,Pyrginae,HELI-SP,GENUS,Heliopetes,sp.,,,White-Skipper sp.,,,FALSE
+788,Hesperiidae,Pyrginae,HELIARS,SPECIES,Heliopetes,arsalte,,,Veined White-Skipper,,,FALSE
+783,Hesperiidae,Pyrginae,HELIDOM,SPECIES,Heliopetes,domicella,,,Erichson's White-Skipper,,,FALSE
+784,Hesperiidae,Pyrginae,HELIERI,SPECIES,Heliopetes,ericetorum,,,Northern White-Skipper,,,FALSE
+785,Hesperiidae,Pyrginae,HELILAV,SPECIES,Heliopetes,laviana,,,Laviana White-Skipper,,,TRUE
+786,Hesperiidae,Pyrginae,HELIMAC,SPECIES,Heliopetes,macaira,,,Turk's-cap White-Skipper,,,TRUE
+281,Lycaenidae,Polyommatinae,HEM-SP,GENUS,Hemiargus,sp.,,,Hemiargus sp.,,,FALSE
+278,Lycaenidae,Polyommatinae,HEMAMM,SPECIES,Hemiargus,ammon,,,Nickerbean Blue,*,,FALSE
+279,Lycaenidae,Polyommatinae,HEMCER,SPECIES,Hemiargus,ceraunus,,,Ceraunus Blue,,,TRUE
+280,Lycaenidae,Polyommatinae,HEMISO,SPECIES,Hemiargus,isola,,,Reakirt's Blue,,,FALSE
+277,Lycaenidae,Polyommatinae,HEMTHO,SPECIES,Hemiargus,thomasi,,,Miami Blue,,,FALSE
+594,Nymphalidae,Satyrinae,HERSOS,SPECIES,Hermeuptychia,sosybius,,,Carolina Satyr,,,FALSE
+866,Hesperiidae,Hesperiinae,HES-SP,GENUS,Hesperia,sp.,,,Hesperia sp.,,,FALSE
+859,Hesperiidae,Hesperiinae,HESATT,SPECIES,Hesperia,attalus,,,Dotted Skipper,,,FALSE
+856,Hesperiidae,Hesperiinae,HESCOL,SPECIES,Hesperia,columbia,,,Columbian Skipper,,,FALSE
+849,Hesperiidae,Hesperiinae,HESCOM,SPECIES,Hesperia,comma,,,Common Branded Skipper,*,,FALSE
+850,Hesperiidae,Hesperiinae,HESCOM,SUBSPECIES,Hesperia,comma,colorado,,Common Branded Skipper,,,FALSE
+851,Hesperiidae,Hesperiinae,HESCOM,SUBSPECIES,Hesperia,comma,assiniboia,,Common Branded Skipper,,,FALSE
+861,Hesperiidae,Hesperiinae,HESDAC,SPECIES,Hesperia,dacotae,,,Dakota Skipper,,,FALSE
+848,Hesperiidae,Hesperiinae,HESJUB,SPECIES,Hesperia,juba,,,Juba Skipper,,,FALSE
+854,Hesperiidae,Hesperiinae,HESLEO,SPECIES,Hesperia,leonardus,,,Leonard's Skipper,,,FALSE
+862,Hesperiidae,Hesperiinae,HESLIN,SPECIES,Hesperia,lindseyi,,,Lindsey's Skipper,,,FALSE
+860,Hesperiidae,Hesperiinae,HESMES,SPECIES,Hesperia,meskei,,,Meske's Skipper,,,FALSE
+857,Hesperiidae,Hesperiinae,HESMET,SPECIES,Hesperia,metea,,,Cobweb Skipper,,,FALSE
+864,Hesperiidae,Hesperiinae,HESMIR,SPECIES,Hesperia,miriamae,,,Sierra Skipper,,,FALSE
+865,Hesperiidae,Hesperiinae,HESNEV,SPECIES,Hesperia,nevada,,,Nevada Skipper,,,FALSE
+853,Hesperiidae,Hesperiinae,HESOTT,SPECIES,Hesperia,ottoe,,,Ottoe Skipper,,,FALSE
+799,Hesperiidae,Pyrginae,HESP-SP,GENUS,Hesperopsis,sp.,,,Hesperopsis sp.,,,FALSE
+855,Hesperiidae,Hesperiinae,HESPAH,SPECIES,Hesperia,pahaska,,,Pahaska Skipper,,,FALSE
+796,Hesperiidae,Pyrginae,HESPALP,SPECIES,Hesperopsis,alpheus,,,Saltbush Sootywing,*,,FALSE
+797,Hesperiidae,Pyrginae,HESPALP,SUBSPECIES,Hesperopsis,alpheus,alpheus,,'Saltbush' Saltbush Sootywing,,,FALSE
+798,Hesperiidae,Pyrginae,HESPALP,SUBSPECIES,Hesperopsis,alpheus,gracielae,,MacNeill's' Saltbush Sootywing,,,FALSE
+795,Hesperiidae,Pyrginae,HESPLIB,SPECIES,Hesperopsis,libya,,,Mojave Sootywing,*,,FALSE
+863,Hesperiidae,Hesperiinae,HESSAS,SPECIES,Hesperia,sassacus,,,Indian Skipper,,,FALSE
+847,Hesperiidae,Hesperiinae,HESUNC,SPECIES,Hesperia,uncas,,,Uncas Skipper,,,FALSE
+858,Hesperiidae,Hesperiinae,HESVIR,SPECIES,Hesperia,viridis,,,Green Skipper,,,FALSE
+852,Hesperiidae,Hesperiinae,HESWOO,SPECIES,Hesperia,woodgatei,,,Apache Skipper,,,FALSE
+557,Nymphalidae,Limenitidinae,HIS-SP,GENUS,Historis,sp.,,,Cecropian sp.,,,FALSE
+556,Nymphalidae,Limenitidinae,HISACH,SPECIES,Historis,acheronta,,,Tailed Cecropian,*,,FALSE
+555,Nymphalidae,Limenitidinae,HISODI,SPECIES,Historis,odius,,,Orion Cecropian,*,,FALSE
+844,Hesperiidae,Hesperiinae,HYLPHY,SPECIES,Hylephila,phyleus,,,Fiery Skipper,,,FALSE
+508,Nymphalidae,Nymphalinae,HYPLMIS,SPECIES,Hypolimnas,misippus,,,Mimic,,,FALSE
+507,Nymphalidae,Nymphalinae,HYPNLET,SPECIES,Hypanartia,lethe,,,Orange Mapwing,,,FALSE
+264,Lycaenidae,Theclinae,HYPSCRI,SPECIES,Hypostrymon,critola,,,Sonoran Hairstreak,,,FALSE
+163,Lycaenidae,Theclinae,HYPUCRY,SPECIES,Hypaurotis,crysalus,,,Colorado Hairstreak,,,FALSE
+512,Nymphalidae,Nymphalinae,JUN-SP,GENUS,Junonia,sp.,,,Buckeye sp.,,,FALSE
+509,Nymphalidae,Nymphalinae,JUNCOE,SPECIES,Junonia,coenia,,,Common Buckeye,,,FALSE
+510,Nymphalidae,Nymphalinae,JUNEVA,SPECIES,Junonia,evarete,,,Mangrove Buckeye,,,TRUE
+511,Nymphalidae,Nymphalinae,JUNGEN,SUBSPECIES,Junonia,genoveva,form nigrosuffusa,,Tropical Buckeye,,,FALSE
+124,Pieridae,Coliadinae,KRILYS,SPECIES,Kricogonia,lyside,,,Lyside Sulphur,,,TRUE
+275,Lycaenidae,Polyommatinae,LAMBOE,SPECIES,Lampides,boeticus,,,Pea Blue,*,,FALSE
+353,Riodinidae,,LASSUL,SPECIES,Lasaia,sula,,,Blue Metalmark,,,FALSE
+274,Lycaenidae,Polyommatinae,LEP-SP,GENUS,Leptotes,sp.,,,Leptotes sp.,,,FALSE
+272,Lycaenidae,Polyommatinae,LEPCAS,SPECIES,Leptotes,cassius,,,Cassius Blue,,,TRUE
+273,Lycaenidae,Polyommatinae,LEPMAR,SPECIES,Leptotes,marina,,,Marine Blue,,,FALSE
+826,Hesperiidae,Hesperiinae,LER-SP,GENUS,Lerema,sp.,,,Lerema sp.,,,FALSE
+824,Hesperiidae,Hesperiinae,LERACC,SPECIES,Lerema,accius,,,Clouded Skipper,,,FALSE
+825,Hesperiidae,Hesperiinae,LERLIR,SPECIES,Lerema,liris,,,Liris Skipper,,,FALSE
+955,Hesperiidae,Hesperiinae,LERO-SP,GENUS,Lerodea,sp.,,,Lerodea sp.,,,FALSE
+953,Hesperiidae,Hesperiinae,LEROARA,SPECIES,Lerodea,arabus,,,Violet-clouded Skipper,*,,FALSE
+954,Hesperiidae,Hesperiinae,LERODYS,SPECIES,Lerodea,dysaules,,,Olive-clouded Skipper,*,,FALSE
+952,Hesperiidae,Hesperiinae,LEROEUF,SPECIES,Lerodea,eufala,,,Eufala Skipper,,,FALSE
+374,Nymphalidae,Libytheinae,LIBCAR,SPECIES,Libytheana,carinenta,,,American Snout,,,FALSE
+532,Nymphalidae,Limenitidinae,LIM-SP,GENUS,Limenitis,sp.,,,Admiral sp.,,,FALSE
+525,Nymphalidae,Limenitidinae,LIMARC,SPECIES,Limenitis,archippus,,,Viceroy,,,FALSE
+521,Nymphalidae,Limenitidinae,LIMART,SPECIES,Limenitis,arthemis,,,Red-spotted Admiral,*,,FALSE
+527,Nymphalidae,Limenitidinae,LIMLOR,SPECIES,Limenitis,lorquini,,,Lorquin's Admiral,*,,FALSE
+526,Nymphalidae,Limenitidinae,LIMWEI,SPECIES,Limenitis,weidemeyerii,,,Weidemeyer's Admiral,*,,FALSE
+322,Lycaenidae,Polyommatinae,LYC-SP,GENUS,Lycaeides,sp.,,,Lycaeides sp.,,,FALSE
+162,Lycaenidae,Lycaeninae,LYCA-SP,GENUS,Lycaena,sp.,,,Copper sp.,,,FALSE
+142,Lycaenidae,Lycaeninae,LYCAARO,SPECIES,Lycaena,arota,,,Tailed Copper,,,FALSE
+144,Lycaenidae,Lycaeninae,LYCACUP,SPECIES,Lycaena,cupreus,,,Lustrous Copper,,,FALSE
+145,Lycaenidae,Lycaeninae,LYCACUP,SUBSPECIES,Lycaena,cupreus,snowi,,Snow's' Lustrous Copper,,,FALSE
+147,Lycaenidae,Lycaeninae,LYCADIO,SPECIES,Lycaena,dione,,,Gray Copper,,Considered one species by Scott - could have mis-IDs,FALSE
+155,Lycaenidae,Lycaeninae,LYCADOR,SPECIES,Lycaena,dorcas,,,Dorcas Copper,*,,FALSE
+156,Lycaenidae,Lycaeninae,LYCADOR,SUBSPECIES,Lycaena,dorcas,claytoni,,'Maine' Dorcas Copper,,,FALSE
+157,Lycaenidae,Lycaeninae,LYCADOR,SUBSPECIES,Lycaena,dorcas,dospassosi,,Salt Marsh' Dorcas Copper,*,,FALSE
+148,Lycaenidae,Lycaeninae,LYCAEDI,SPECIES,Lycaena,editha,,,Edith's Copper,,Considered one species by Scott - could have mis-IDs,FALSE
+154,Lycaenidae,Lycaeninae,LYCAEPI,SPECIES,Lycaena,epixanthe,,,Bog Copper,,,FALSE
+149,Lycaenidae,Lycaeninae,LYCAGOR,SPECIES,Lycaena,gorgon,,,Gorgon Copper,,,FALSE
+158,Lycaenidae,Lycaeninae,LYCAHEL,SPECIES,Lycaena,helloides,,,Purplish Copper,,,FALSE
+161,Lycaenidae,Lycaeninae,LYCAHER,SPECIES,Lycaena,hermes,,,Hermes Copper,,,FALSE
+153,Lycaenidae,Lycaeninae,LYCAHET,SPECIES,Lycaena,heteronea,,,Blue Copper,,,FALSE
+150,Lycaenidae,Lycaeninae,LYCAHYL,SPECIES,Lycaena,hyllus,,,Bronze Copper,,,FALSE
+160,Lycaenidae,Lycaeninae,LYCAMAR,SPECIES,Lycaena,mariposa,,,Mariposa Copper,,,FALSE
+159,Lycaenidae,Lycaeninae,LYCANIV,SPECIES,Lycaena,nivalis,,,Lilac-bordered Copper,,,FALSE
+143,Lycaenidae,Lycaeninae,LYCAPHL,SPECIES,Lycaena,phlaeas,,,American Copper,,,FALSE
+151,Lycaenidae,Lycaeninae,LYCARUB,SPECIES,Lycaena,rubidus,,,Ruddy Copper,,,FALSE
+152,Lycaenidae,Lycaeninae,LYCARUB,SUBSPECIES,Lycaena,rubidus,ferrisi,,'White Mountains' Ruddy Copper,*,,FALSE
+146,Lycaenidae,Lycaeninae,LYCAXAN,SPECIES,Lycaena,xanthoides,,,Great Copper,,Considered one species by Scott - could have mis-IDs,FALSE
+319,Lycaenidae,Polyommatinae,LYCIDA,SPECIES,Lycaeides,idas,,,Northern Blue,,Plebejus as per Scott,FALSE
+320,Lycaenidae,Polyommatinae,LYCMEL,SPECIES,Lycaeides,melissa,,,Melissa Blue,,Plebejus as per Scott,FALSE
+651,Nymphalidae,Danainae,LYCOCLE,SPECIES,Lycorea,cleobaea,,,Tiger Mimic-Queen,,,FALSE
+563,Nymphalidae,Limenitidinae,MAR-SP,GENUS,Marpesia,sp.,,,Daggerwing sp.,,,FALSE
+560,Nymphalidae,Limenitidinae,MARCHI,SPECIES,Marpesia,chiron,,,Many-banded Daggerwing,,,FALSE
+559,Nymphalidae,Limenitidinae,MARCOR,SPECIES,Marpesia,coresia,,,Waiter Daggerwing,,,FALSE
+562,Nymphalidae,Limenitidinae,MARELE,SPECIES,Marpesia,eleuchea,,,Antillean Daggerwing,,,FALSE
+561,Nymphalidae,Limenitidinae,MARPET,SPECIES,Marpesia,petreus,,,Ruddy Daggerwing,,,FALSE
+984,Hesperiidae,Megathyminae,MEG-SP,GENUS,Megathymus,sp.,,,Megathymus sp.,,,FALSE
+981,Hesperiidae,Megathyminae,MEGCOF,SPECIES,Megathymus,cofaqui,,,Cofaqui Giant-Skipper,,(includes harrisi ),FALSE
+600,Nymphalidae,Satyrinae,MEGI-SP,GENUS,Megisto,sp.,,,Megisto sp.,,,FALSE
+598,Nymphalidae,Satyrinae,MEGICYM,SPECIES,Megisto,cymela,,,Little Wood-Satyr,*,(includes viola),FALSE
+599,Nymphalidae,Satyrinae,MEGIRUB,SPECIES,Megisto,rubricata,,,Red Satyr,,,FALSE
+982,Hesperiidae,Megathyminae,MEGSTR,SPECIES,Megathymus,streckeri,,,Strecker's Giant-Skipper,,,FALSE
+983,Hesperiidae,Megathyminae,MEGURS,SPECIES,Megathymus,ursus,,,Ursine Giant-Skipper,,,FALSE
+980,Hesperiidae,Megathyminae,MEGYUC,SPECIES,Megathymus,yuccae,,,Yucca Giant-Skipper,,(includes coloradensis ),FALSE
+354,Riodinidae,,MELPIX,SPECIES,Melanis,pixe,,,Red-bordered Pixie,,,FALSE
+545,Nymphalidae,Limenitidinae,MESAMY,SPECIES,Mestra,amymone,,,Common Mestra,,,TRUE
+453,Nymphalidae,Nymphalinae,MICELV,SPECIES,Microtia,elva,,,Elf,,,FALSE
+263,Lycaenidae,Theclinae,MINI-SP,GENUS,Ministrymon,sp.,,,Ministreak sp.,,,FALSE
+262,Lycaenidae,Theclinae,MINIAZI,SPECIES,Ministrymon,azia,,,Gray Ministreak,,,FALSE
+261,Lycaenidae,Theclinae,MINICLY,SPECIES,Ministrymon,clytie,,,Clytie Ministreak,,,FALSE
+260,Lycaenidae,Theclinae,MINILED,SPECIES,Ministrymon,leda,,,Leda Ministreak,,,FALSE
+816,Hesperiidae,Hesperiinae,MONTYR,SPECIES,Monca,tyrtaeus,,,Violet-patched Skipper,*,,FALSE
+580,Nymphalidae,Morphinae,MORPOL,SPECIES,Morpho,polyphemus,,,White Morpho,,,FALSE
+540,Nymphalidae,Limenitidinae,MYS-SP,GENUS,Myscelia,sp.,,,Bluewing sp.,,,FALSE
+539,Nymphalidae,Limenitidinae,MYSCYA,SPECIES,Myscelia,cyananthe,,,Blackened Bluewing,,,FALSE
+538,Nymphalidae,Limenitidinae,MYSETH,SPECIES,Myscelia,ethusa,,,Mexican Bluewing,,,FALSE
+820,Hesperiidae,Hesperiinae,NAS-SP,GENUS,Nastra,sp.,,,Nastra sp.,,,FALSE
+818,Hesperiidae,Hesperiinae,NASJUL,SPECIES,Nastra,julia,,,Julia's Skipper,,,FALSE
+817,Hesperiidae,Hesperiinae,NASLHE,SPECIES,Nastra,lherminier,,,Swarthy Skipper,,,FALSE
+819,Hesperiidae,Hesperiinae,NASNEA,SPECIES,Nastra,neamathla,,,Neamathla Skipper,,,FALSE
+137,Pieridae,Coliadinae,NATIOL,SPECIES,Nathalis,iole,,,Dainty Sulphur,,,FALSE
+630,Nymphalidae,Satyrinae,NEOMRID,SPECIES,Neominois,ridingsii,,,Ridings' Satyr,*,,FALSE
+597,Nymphalidae,Satyrinae,NEON-SP,GENUS,Neonympha,sp.,,,Neonympha sp.,,,FALSE
+595,Nymphalidae,Satyrinae,NEONARE,SPECIES,Neonympha,areolata,,,Georgia Satyr,,,FALSE
+596,Nymphalidae,Satyrinae,NEONMIT,SPECIES,Neonympha,mitchellii,,,Mitchell's Satyr,,,FALSE
+52,Pieridae,Pierinae,NEOP-SP,GENUS,Neophasia,sp.,,,Neophasia sp.,,,FALSE
+50,Pieridae,Pierinae,NEOPMEN,SPECIES,Neophasia,menapia,,,Pine White,,,FALSE
+51,Pieridae,Pierinae,NEOPTER,SPECIES,Neophasia,terlootii,,,Chiricahua White,,,FALSE
+726,Hesperiidae,Pyrginae,NISRUB,SPECIES,Nisoniades,rubescens,,,Purplish-black Skipper,,,FALSE
+742,Hesperiidae,Pyrginae,NOCSTA,SPECIES,Noctuana,stator,,,Red-studded Skipper,*,,FALSE
+966,Hesperiidae,Hesperiinae,NYCNYC,SPECIES,Nyctelius,nyctelius,,,Violet-banded Skipper,,,FALSE
+500,Nymphalidae,Nymphalinae,NYM-SP,GENUS,Nymphalis,sp.,,,Tortoiseshell sp.,,,FALSE
+497,Nymphalidae,Nymphalinae,NYMANT,SPECIES,Nymphalis,antiopa,,,Mourning Cloak,,,FALSE
+496,Nymphalidae,Nymphalinae,NYMCAL,SPECIES,Nymphalis,californica,,,California Tortoiseshell,,,FALSE
+498,Nymphalidae,Nymphalinae,NYMMIL,SPECIES,Nymphalis,milberti,,,Milbert's Tortoiseshell,,,FALSE
+499,Nymphalidae,Nymphalinae,NYMURT,SPECIES,Nymphalis,urticae,,,Small Tortoiseshell,,,FALSE
+495,Nymphalidae,Nymphalinae,NYMVAU,SPECIES,Nymphalis,vaualbum,,,Compton Tortoiseshell,*,,FALSE
+838,Hesperiidae,Hesperiinae,OAR-SP,GENUS,Oarisma,sp.,,,Oarisma sp.,,,FALSE
+837,Hesperiidae,Hesperiinae,OAREDW,SPECIES,Oarisma,edwardsii,,,Edwards' Skipperling,,,FALSE
+836,Hesperiidae,Hesperiinae,OARGAR,SPECIES,Oarisma,garita,,,Garita Skipperling,,,FALSE
+835,Hesperiidae,Hesperiinae,OARPOW,SPECIES,Oarisma,poweshiek,,,Poweshiek Skipperling,,,FALSE
+172,Lycaenidae,Theclinae,OCAOCR,SPECIES,Ocaria,ocrisia,,,Black Hairstreak,,,FALSE
+895,Hesperiidae,Hesperiinae,OCH-SP,GENUS,Ochlodes,sp.,,,Ochlodes sp.,,,FALSE
+893,Hesperiidae,Hesperiinae,OCHAGR,SPECIES,Ochlodes,agricola,,,Rural Skipper,,,FALSE
+892,Hesperiidae,Hesperiinae,OCHSYL,SPECIES,Ochlodes,sylvanoides,,,Woodland Skipper,,,FALSE
+894,Hesperiidae,Hesperiinae,OCHYUM,SPECIES,Ochlodes,yuma,,,Yuma Skipper,,,FALSE
+645,Nymphalidae,Satyrinae,OEN-SP,GENUS,Oeneis,sp.,,,Arctic sp.,,,FALSE
+637,Nymphalidae,Satyrinae,OENALB,SPECIES,Oeneis,alberta,,,Alberta Arctic,,,FALSE
+640,Nymphalidae,Satyrinae,OENALP,SPECIES,Oeneis,alpina,,,Sentinel Arctic,,(includes exubitor ),FALSE
+633,Nymphalidae,Satyrinae,OENCHR,SPECIES,Oeneis,chryxus,,,Chryxus Arctic,,,FALSE
+634,Nymphalidae,Satyrinae,OENCHR,SUBSPECIES,Oeneis,chryxus,chryxus,,Brown' Chryxus Arctic,,,FALSE
+635,Nymphalidae,Satyrinae,OENCHR,SUBSPECIES,Oeneis,chryxus,ivallda,,'California' Chryxus Arctic,,,FALSE
+639,Nymphalidae,Satyrinae,OENJUT,SPECIES,Oeneis,jutta,,,Jutta Arctic,,,FALSE
+632,Nymphalidae,Satyrinae,OENMAC,SPECIES,Oeneis,macounii,,,Macoun's Arctic,,,FALSE
+641,Nymphalidae,Satyrinae,OENMEL,SPECIES,Oeneis,melissa,,,Melissa Arctic,,,FALSE
+631,Nymphalidae,Satyrinae,OENNEV,SPECIES,Oeneis,nevadensis,,,Great Arctic,,,FALSE
+234,Lycaenidae,Theclinae,OENOORT,SPECIES,Oenomaus,ortygnus,,,Aquamarine Hairstreak,,,FALSE
+642,Nymphalidae,Satyrinae,OENPOL,SPECIES,Oeneis,polixenes,,,Polixenes Arctic,,,FALSE
+643,Nymphalidae,Satyrinae,OENROS,SPECIES,Oeneis,rosovi,,,Early Arctic,*,(includes philipi),FALSE
+638,Nymphalidae,Satyrinae,OENTAY,SPECIES,Oeneis,taygete,,,White-veined Arctic,*,(distinct from Old World Oeneis bore ),FALSE
+636,Nymphalidae,Satyrinae,OENUHL,SPECIES,Oeneis,uhleri,,,Uhler's Arctic,,,FALSE
+956,Hesperiidae,Hesperiinae,OLIMAC,SPECIES,Oligoria,maculata,,,Twin-spot Skipper,,,FALSE
+965,Hesperiidae,Hesperiinae,PAN-SP,GENUS,Panoquina,sp.,,,Panoquina sp.,,,FALSE
+960,Hesperiidae,Hesperiinae,PANERR,SPECIES,Panoquina,errans,,,Wandering Skipper,,,FALSE
+964,Hesperiidae,Hesperiinae,PANFUS,SPECIES,Panoquina,fusina,,,Evans' Skipper,,,FALSE
+962,Hesperiidae,Hesperiinae,PANHEC,SPECIES,Panoquina,hecebola,,,Hecebolus Skipper,,,FALSE
+961,Hesperiidae,Hesperiinae,PANOCO,SPECIES,Panoquina,ocola,,,Ocola Skipper,,,FALSE
+958,Hesperiidae,Hesperiinae,PANPA1,SPECIES,Panoquina,panoquin,,,Salt Marsh Skipper,,,FALSE
+959,Hesperiidae,Hesperiinae,PANPA2,SPECIES,Panoquina,panoquinoides,,,Obscure Skipper,,,FALSE
+963,Hesperiidae,Hesperiinae,PANSYL,SPECIES,Panoquina,sylvicola,,,Purple-washed Skipper,*,,FALSE
+47,Papilionidae,Papilioninae,PAP-SP,GENUS,Papilio,sp.,,,Swallowtail sp.,,,FALSE
+30,Papilionidae,Papilioninae,PAPAN1,SPECIES,Papilio,andraemon,,,Bahamian Swallowtail,,,FALSE
+33,Papilionidae,Papilioninae,PAPAN2,SPECIES,Papilio,androgeus,,,Androgeus Swallowtail,,,FALSE
+45,Papilionidae,Papilioninae,PAPANC,SPECIES,Papilio,anchisiades,,,Ruby-spotted Swallowtail,,,FALSE
+29,Papilionidae,Papilioninae,PAPARI,SPECIES,Papilio,aristodemus,,,Schaus' Swallowtail,,,FALSE
+32,Papilionidae,Papilioninae,PAPAST,SPECIES,Papilio,astyalus,,,Broad-banded Swallowtail,,,FALSE
+20,Papilionidae,Papilioninae,PAPBRE,SPECIES,Papilio,brevicauda,,,Short-tailed Swallowtail,,,FALSE
+35,Papilionidae,Papilioninae,PAPCAN,SPECIES,Papilio,canadensis,,,Canadian Tiger Swallowtail,,,FALSE
+28,Papilionidae,Papilioninae,PAPCRE,SPECIES,Papilio,cresphontes,,,Giant Swallowtail,,,FALSE
+38,Papilionidae,Papilioninae,PAPEUR,SPECIES,Papilio,eurymedon,,,Pale Swallowtail,,,FALSE
+42,Papilionidae,Papilioninae,PAPGAR,SPECIES,Papilio,garamas,,,Magnificent Swallowtail,*,,FALSE
+34,Papilionidae,Papilioninae,PAPGLA,SPECIES,Papilio,glaucus,,,Eastern Tiger Swallowtail,,Scott lists canadensis and rutulus as ssp of P. glaucus,FALSE
+25,Papilionidae,Papilioninae,PAPIND,SPECIES,Papilio,indra,,,Indra Swallowtail,,,FALSE
+19,Papilionidae,Papilioninae,PAPJOA,SPECIES,Papilio,joanae,,,Ozark Swallowtail,,,FALSE
+21,Papilionidae,Papilioninae,PAPMAC,SPECIES,Papilio,machaon,,,Old World Swallowtail,*,,FALSE
+22,Papilionidae,Papilioninae,PAPMAC,SUBSPECIES,Papilio,machaon,bairdii,,'Baird's' Old World Swallowtail,*,,FALSE
+23,Papilionidae,Papilioninae,PAPMAC,SUBSPECIES,Papilio,machaon,oregonius,,'Oregon' Swallowtail,,,FALSE
+37,Papilionidae,Papilioninae,PAPMUL,SPECIES,Papilio,multicaudata,,,Two-tailed Swallowtail,,,FALSE
+31,Papilionidae,Papilioninae,PAPORN,SPECIES,Papilio,ornythion,,,Ornythion Swallowtail,,,FALSE
+41,Papilionidae,Papilioninae,PAPPAL,SPECIES,Papilio,palamedes,,,Palamedes Swallowtail,,,FALSE
+44,Papilionidae,Papilioninae,PAPPHA,SPECIES,Papilio,pharnaces,,,Pink-spotted Swallowtail,,,FALSE
+39,Papilionidae,Papilioninae,PAPPIL,SPECIES,Papilio,pilumnus,,,Three-tailed Swallowtail,,,FALSE
+17,Papilionidae,Papilioninae,PAPPOL,SPECIES,Papilio,polyxenes,,,Black Swallowtail,,,FALSE
+18,Papilionidae,Papilioninae,PAPPOL,SUBSPECIES,Papilio,polyxenes,coloro,,'Desert' Black Swallowtail,,,FALSE
+36,Papilionidae,Papilioninae,PAPRUT,SPECIES,Papilio,rutulus,,,Western Tiger Swallowtail,,,FALSE
+27,Papilionidae,Papilioninae,PAPTHO,SPECIES,Papilio,thoas,,,Thoas Swallowtail,,,FALSE
+40,Papilionidae,Papilioninae,PAPTRO,SPECIES,Papilio,troilus,,,Spicebush Swallowtail,,,FALSE
+43,Papilionidae,Papilioninae,PAPVIC,SPECIES,Papilio,victorinus,,,Victorine Swallowtail,,,FALSE
+26,Papilionidae,Papilioninae,PAPXUT,SPECIES,Papilio,xuthus,,,Chinese Swallowtail,*,,FALSE
+24,Papilionidae,Papilioninae,PAPZEL,SPECIES,Papilio,zelicaon,,,Anise Swallowtail,,,FALSE
+601,Nymphalidae,Satyrinae,PARALL,SPECIES,Paramacera,allyni,,,Pine Satyr,,,FALSE
+10,Papilionidae,Papilioninae,PARALO,SPECIES,Parides,alopius,,,White-dotted Cattleheart,,,FALSE
+896,Hesperiidae,Hesperiinae,PARASNO,SPECIES,Paratrytone,snowi,,,Snow's Skipper,,,FALSE
+9,Papilionidae,Parnassiinae,PARN-SP,GENUS,Parnassius,sp.,,,Parnassian sp.,,,FALSE
+4,Papilionidae,Parnassiinae,PARNCLO,SPECIES,Parnassius,clodius,,,Clodius Parnassian,,,FALSE
+3,Papilionidae,Parnassiinae,PARNEVE,SPECIES,Parnassius,eversmanni,,,Eversmann's Parnassian,,,FALSE
+5,Papilionidae,Parnassiinae,PARNPHO,SPECIES,Parnassius,phoebus,,,Phoebus Parnassian,*,,FALSE
+6,Papilionidae,Parnassiinae,PARNPHO,SUBSPECIES,Parnassius,phoebus,phoebus,,'Phoebus' Phoebus Parnassian,,,FALSE
+7,Papilionidae,Parnassiinae,PARNPHO,SUBSPECIES,Parnassius,phoebus,smintheus,,Rocky Mountain' Phoebus Parnassian,,,FALSE
+8,Papilionidae,Parnassiinae,PARNPHO,SUBSPECIES,Parnassius,phoebus,behri,,'Sierra Nevada' Phoebus Parnassian,,,FALSE
+235,Lycaenidae,Theclinae,PARRMAL,SPECIES,Parrhasius,m-album,,,White M Hairstreak,,,FALSE
+729,Hesperiidae,Pyrginae,PEL-SP,GENUS,Pellicia,sp.,,,Pellicia sp.,,,FALSE
+727,Hesperiidae,Pyrginae,PELARI,SPECIES,Pellicia,arina,,,Glazed Pellicia,,,FALSE
+728,Hesperiidae,Pyrginae,PELDIM,SPECIES,Pellicia,dimidiata,,,Morning Glory Pellicia,,,FALSE
+828,Hesperiidae,Hesperiinae,PERPHI,SPECIES,Perichares,philetes,,,Green-backed Ruby-eye,,,FALSE
+177,Lycaenidae,Theclinae,PHAALC,SPECIES,Phaeostrymon,alcestis,,,Soapberry Hairstreak,,,FALSE
+313,Lycaenidae,Polyommatinae,PHILSPE,SPECIES,Philotiella,speciosa,,,Small Blue,*,,FALSE
+314,Lycaenidae,Polyommatinae,PHILSPE,SUBSPECIES,Philotiella,speciosa,leona,,Small Blue,,,FALSE
+297,Lycaenidae,Polyommatinae,PHISON,SPECIES,Philotes,sonorensis,,,Sonoran Blue,,,FALSE
+656,Hesperiidae,Pyrginae,PHO-SP,GENUS,Phocides,sp.,,,Phocides sp.,,,FALSE
+123,Pieridae,Coliadinae,PHOE-SP,GENUS,Phoebis,sp.,,,Phoebis sp.,,,FALSE
+119,Pieridae,Coliadinae,PHOEAGA,SPECIES,Phoebis,agarithe,,,Large Orange Sulphur,,,TRUE
+120,Pieridae,Coliadinae,PHOENEO,SPECIES,Phoebis,neocypris,,,Tailed Sulphur,,,FALSE
+122,Pieridae,Coliadinae,PHOEORB,SPECIES,Phoebis,orbis,,,Orbed Sulphur,,,FALSE
+118,Pieridae,Coliadinae,PHOEPHI,SPECIES,Phoebis,philea,,,Orange-barred Sulphur,,,FALSE
+117,Pieridae,Coliadinae,PHOESEN,SPECIES,Phoebis,sennae,,,Cloudless Sulphur,,,FALSE
+121,Pieridae,Coliadinae,PHOESTA,SPECIES,Phoebis,statira,,,Statira Sulphur,,statira = neleis,FALSE
+794,Hesperiidae,Pyrginae,PHOL-SP,GENUS,Pholisora,sp.,,,Sootywing sp.,,,FALSE
+792,Hesperiidae,Pyrginae,PHOLCAT,SPECIES,Pholisora,catullus,,,Common Sootywing,,,FALSE
+793,Hesperiidae,Pyrginae,PHOLMEJ,SPECIES,Pholisora,mejicana,,,Mexican Sootywing,,,FALSE
+654,Hesperiidae,Pyrginae,PHOPIG,SPECIES,Phocides,pigmalion,,,Mangrove Skipper,,pigmalion = batabano according to Scott,FALSE
+655,Hesperiidae,Pyrginae,PHOPOL,SPECIES,Phocides,polybius,,,Guava Skipper,*,polybius = palemon according to Scott,FALSE
+474,Nymphalidae,Nymphalinae,PHY-SP,GENUS,Phyciodes,sp.,,,Crescent sp.,,,FALSE
+463,Nymphalidae,Nymphalinae,PHYARG,SPECIES,Phyciodes,argentea,,,Chestnut Crescent,*,,FALSE
+468,Nymphalidae,Nymphalinae,PHYBAT,SPECIES,Phyciodes,batesii,,,Tawny Crescent,,,FALSE
+469,Nymphalidae,Nymphalinae,PHYCAM,SPECIES,Phyciodes,campestris,,,Field Crescent,,campestris = pratensis as per Scott,FALSE
+460,Nymphalidae,Nymphalinae,PHYFRI,SPECIES,Phyciodes,frisia,,,Cuban Crescent,*,,FALSE
+473,Nymphalidae,Nymphalinae,PHYMYL,SPECIES,Phyciodes,mylitta,,,Mylitta Crescent,,,FALSE
+471,Nymphalidae,Nymphalinae,PHYORS,SPECIES,Phyciodes,orseis,,,California Crescent,,,FALSE
+472,Nymphalidae,Nymphalinae,PHYPAL,SPECIES,Phyciodes,pallida,,,Pale Crescent,,,FALSE
+465,Nymphalidae,Nymphalinae,PHYPHA,SPECIES,Phyciodes,phaon,,,Phaon Crescent,,,FALSE
+470,Nymphalidae,Nymphalinae,PHYPIC,SPECIES,Phyciodes,picta,,,Painted Crescent,,,FALSE
+462,Nymphalidae,Nymphalinae,PHYPTO,SPECIES,Phyciodes,ptolyca,,,Black Crescent,,,FALSE
+467,Nymphalidae,Nymphalinae,PHYSEL,SPECIES,Phyciodes,selenis,,,Northern Crescent,*,Listed as P. morpheus (also erroneously called P. pascoensis) by Scott,FALSE
+457,Nymphalidae,Nymphalinae,PHYTEX,SPECIES,Phyciodes,texana,,,Texan Crescent,,,FALSE
+458,Nymphalidae,Nymphalinae,PHYTEX,SUBSPECIES,Phyciodes,texana,texana,,'Texan' Texan Crescent,,,FALSE
+459,Nymphalidae,Nymphalinae,PHYTEX,SUBSPECIES,Phyciodes,texana,seminole,,Seminole' Texan Crescent,,,FALSE
+466,Nymphalidae,Nymphalinae,PHYTHA,SPECIES,Phyciodes,tharos,,,Pearl Crescent,,"P. tharos ""A"" = tharos and ""B"" = selenis",FALSE
+461,Nymphalidae,Nymphalinae,PHYTUL,SPECIES,Phyciodes,tulcis,,,Pale-banded Crescent,*,Scott lists tulcis as a ssp.,FALSE
+464,Nymphalidae,Nymphalinae,PHYVES,SPECIES,Phyciodes,vesta,,,Vesta Crescent,,,FALSE
+64,Pieridae,Pierinae,PIE-SP,GENUS,Pieris,sp.,,,Pieris sp.,,,FALSE
+59,Pieridae,Pierinae,PIENAP,SPECIES,Pieris,napi,,,Mustard White,*,angelika a ssp. Of napi by some (bug guide),FALSE
+60,Pieridae,Pierinae,PIENAP,SUBSPECIES,Pieris,napi,oleracea,,'Veined' Mustard White,,,FALSE
+61,Pieridae,Pierinae,PIENAP,SUBSPECIES,Pieris,napi,marginalis,,'Margined' Mustard White,,,FALSE
+63,Pieridae,Pierinae,PIERAP,SPECIES,Pieris,rapae,,,Cabbage White,,,FALSE
+62,Pieridae,Pierinae,PIEVIR,SPECIES,Pieris,virginiensis,,,West Virginia White,,,FALSE
+807,Hesperiidae,Heteropterinae,PIR-SP,GENUS,Piruna,sp.,,,Piruna sp.,,,FALSE
+804,Hesperiidae,Heteropterinae,PIRCIN,SPECIES,Piruna,cingo,,,Many-spotted Skipperling,*,,FALSE
+806,Hesperiidae,Heteropterinae,PIRHAF,SPECIES,Piruna,haferniki,,,Chisos Skipperling,,,FALSE
+805,Hesperiidae,Heteropterinae,PIRMIC,SPECIES,Piruna,microstictus,,,Small-spotted Skipperling,,,FALSE
+802,Hesperiidae,Heteropterinae,PIRPIR,SPECIES,Piruna,pirus,,,Russet Skipperling,,,FALSE
+803,Hesperiidae,Heteropterinae,PIRPOL,SPECIES,Piruna,polingi,,,Four-spotted Skipperling,,,FALSE
+331,Lycaenidae,Polyommatinae,PLE-SP,GENUS,Plebejus,sp.,,,Plebejus sp.,,,FALSE
+328,Lycaenidae,Polyommatinae,PLEACM,SPECIES,Plebejus,acmon,,,Acmon Blue,*,"(includes texana and lutzi),  Scott has texana and lutzi (and many others) as ssp.",FALSE
+324,Lycaenidae,Polyommatinae,PLEAMI,SPECIES,Plebejus,emigdionis,,,San Emigdio Blue,,,FALSE
+325,Lycaenidae,Polyommatinae,PLEICA,SPECIES,Plebejus,icarioides,,,Boisduval's Blue,,,FALSE
+326,Lycaenidae,Polyommatinae,PLEICA,SUBSPECIES,Plebejus,icarioides,missionensis,,'Mission' Boisduval's Blue,,,FALSE
+329,Lycaenidae,Polyommatinae,PLELUP,SPECIES,Plebejus,lupini,,,Lupine Blue,*,,FALSE
+330,Lycaenidae,Polyommatinae,PLENEU,SPECIES,Plebejus,neurona,,,Veined Blue,,,FALSE
+323,Lycaenidae,Polyommatinae,PLESAE,SPECIES,Plebejus,saepiolus,,,Greenish Blue,,,FALSE
+327,Lycaenidae,Polyommatinae,PLESHA,SPECIES,Plebejus,shasta,,,Shasta Blue,,,FALSE
+905,Hesperiidae,Hesperiinae,POA-SP,GENUS,Poanes,sp.,,,Poanes sp.,,,FALSE
+901,Hesperiidae,Hesperiinae,POAAAR,SPECIES,Poanes,aaroni,,,Aaron's Skipper,,,FALSE
+898,Hesperiidae,Hesperiinae,POAHOB,SPECIES,Poanes,hobomok,,,Hobomok Skipper,,,FALSE
+897,Hesperiidae,Hesperiinae,POAMAS,SPECIES,Poanes,massasoit,,,Mulberry Wing,,,FALSE
+904,Hesperiidae,Hesperiinae,POAMEL,SPECIES,Poanes,melane,,,Umber Skipper,,Scott uses genus Paratrytone,FALSE
+900,Hesperiidae,Hesperiinae,POATAX,SPECIES,Poanes,taxiles,,,Taxiles Skipper,,,FALSE
+903,Hesperiidae,Hesperiinae,POAVIA,SPECIES,Poanes,viator,,,Broad-winged Skipper,,,FALSE
+902,Hesperiidae,Hesperiinae,POAYEH,SPECIES,Poanes,yehl,,,Yehl Skipper,,,FALSE
+899,Hesperiidae,Hesperiinae,POAZAB,SPECIES,Poanes,zabulon,,,Zabulon Skipper,,,FALSE
+431,Nymphalidae,Nymphalinae,POL-SP,GENUS,Poladryas,sp.,,,Poladryas sp.,,,FALSE
+430,Nymphalidae,Nymphalinae,POLARA,SPECIES,Polyadryas,arachne,,,Arachne Checkerspot,*,,FALSE
+664,Hesperiidae,Pyrginae,POLG-SP,GENUS,Polygonus,sp.,,,Polygonus sp.,,,FALSE
+662,Hesperiidae,Pyrginae,POLGLEO,SPECIES,Polygonus,leo,,,Hammock Skipper,,,FALSE
+663,Hesperiidae,Pyrginae,POLGMAN,SPECIES,Polygonus,manueli,,,Manuel's Skipper,,,FALSE
+879,Hesperiidae,Hesperiinae,POLI-SP,GENUS,Polites,sp.,,,Polites sp.,,,FALSE
+873,Hesperiidae,Hesperiinae,POLIBAR,SPECIES,Polites,baracoa,,,Baracoa Skipper,,,FALSE
+868,Hesperiidae,Hesperiinae,POLICAR,SPECIES,Polites,carus,,,Carus Skipper,,,FALSE
+872,Hesperiidae,Hesperiinae,POLIDRA,SPECIES,Polites,draco,,,Draco Skipper,,,FALSE
+871,Hesperiidae,Hesperiinae,POLIMAR,SPECIES,Polites,mardon,,,Mardon Skipper,,,FALSE
+876,Hesperiidae,Hesperiinae,POLIMYS,SPECIES,Polites,mystic,,,Long Dash,,,FALSE
+875,Hesperiidae,Hesperiinae,POLIORI,SPECIES,Polites,origenes,,,Crossline Skipper,,P. origenes = manataaqua as per Scott,FALSE
+869,Hesperiidae,Hesperiinae,POLIPEC,SPECIES,Polites,peckius,,,Peck's Skipper,,Scott notes also called P. coras,FALSE
+867,Hesperiidae,Hesperiinae,POLIRHE,SPECIES,Polites,rhesus,,,Rhesus Skipper,,,FALSE
+870,Hesperiidae,Hesperiinae,POLISAB,SPECIES,Polites,sabuleti,,,Sandhill Skipper,,,FALSE
+877,Hesperiidae,Hesperiinae,POLISON,SPECIES,Polites,sonora,,,Sonoran Skipper,,,FALSE
+874,Hesperiidae,Hesperiinae,POLITHE,SPECIES,Polites,themistocles,,,Tawny-edged Skipper,,,FALSE
+878,Hesperiidae,Hesperiinae,POLIVIB,SPECIES,Polites,vibex,,,Whirlabout,,,FALSE
+429,Nymphalidae,Nymphalinae,POLMIN,SPECIES,Poladryas,minuta,,,Dotted Checkerspot,*,,FALSE
+675,Hesperiidae,Pyrginae,POLT-SP,GENUS,Polythrix,sp.,,,Polythrix sp.,,,FALSE
+673,Hesperiidae,Pyrginae,POLTMEX,SPECIES,Polythrix,mexicanus,,,Mexican Longtail,*,,FALSE
+674,Hesperiidae,Pyrginae,POLTOCT,SPECIES,Polythrix,octomaculata,,,Eight-spotted Longtail,,,FALSE
+494,Nymphalidae,Nymphalinae,POLY-SP,GENUS,Polygonia,sp.,,,Anglewing sp.,,,FALSE
+484,Nymphalidae,Nymphalinae,POLYCOM,SPECIES,Polygonia,comma,,,Eastern Comma,,,FALSE
+486,Nymphalidae,Nymphalinae,POLYFAU,SPECIES,Polygonia,faunus,,,Green Comma,,,FALSE
+487,Nymphalidae,Nymphalinae,POLYFAU,SUBSPECIES,Polygonia,faunus,faunus,,'Green' Green Comma,,,FALSE
+488,Nymphalidae,Nymphalinae,POLYFAU,SUBSPECIES,Polygonia,faunus,hylas,,Green Comma,,,FALSE
+489,Nymphalidae,Nymphalinae,POLYFAU,SUBSPECIES,Polygonia,faunus,silvius,,'Sylvan' Green Comma,,,FALSE
+490,Nymphalidae,Nymphalinae,POLYGRA,SPECIES,Polygonia,gracilis,,,Hoary Comma,,,FALSE
+491,Nymphalidae,Nymphalinae,POLYGRA,SUBSPECIES,Polygonia,gracilis,zephyrus,,Zephyr' Hoary Comma,,,FALSE
+483,Nymphalidae,Nymphalinae,POLYINT,SPECIES,Polygonia,interrogationis,,,Question Mark,,,FALSE
+492,Nymphalidae,Nymphalinae,POLYORE,SPECIES,Polygonia,oreas,,,Oreas Comma,*,,FALSE
+493,Nymphalidae,Nymphalinae,POLYPRO,SPECIES,Polygonia,progne,,,Gray Comma,*,,FALSE
+485,Nymphalidae,Nymphalinae,POLYSAT,SPECIES,Polygonia,satyrus,,,Satyr Comma,,,FALSE
+883,Hesperiidae,Hesperiinae,POMVER,SPECIES,Pompeius,verna,,,Little Glassywing,,,FALSE
+58,Pieridae,Pierinae,PON-SP,GENUS,Pontia,sp.,,,Pontia sp.,,,FALSE
+54,Pieridae,Pierinae,PONBEC,SPECIES,Pontia,beckerii,,,Becker's White,,,FALSE
+57,Pieridae,Pierinae,PONOCC,SPECIES,Pontia,occidentalis,,,Western White,,,FALSE
+56,Pieridae,Pierinae,PONPRO,SPECIES,Pontia,protodice,,,Checkered White,,,FALSE
+55,Pieridae,Pierinae,PONSIS,SPECIES,Pontia,sisymbrii,,,Spring White,,,FALSE
+891,Hesperiidae,Hesperiinae,PRO-SP,GENUS,Problema,sp.,,,Problema sp.,,,FALSE
+890,Hesperiidae,Hesperiinae,PROBUL,SPECIES,Problema,bulenta,,,Rare Skipper,,,FALSE
+889,Hesperiidae,Hesperiinae,PROBYS,SPECIES,Problema,byssus,,,Byssus Skipper,,,FALSE
+657,Hesperiidae,Pyrginae,PROTMER,SPECIES,Proteides,mercurius,,,Mercurial Skipper,,,FALSE
+845,Hesperiidae,Hesperiinae,PSEEUN,SPECIES,Pseudocopaeodes,eunus,,,Alkali Skipper,,,FALSE
+782,Hesperiidae,Pyrginae,PYR-SP,GENUS,Pyrgus,sp.,,,Checkered-Skipper sp.,,,FALSE
+779,Hesperiidae,Pyrginae,PYRALB,SPECIES,Pyrgus,albescens,,,White Checkered-Skipper,*,Scott lists as ssp. of communis,FALSE
+773,Hesperiidae,Pyrginae,PYRCEN,SPECIES,Pyrgus,centaureae,,,Grizzled Skipper,,,FALSE
+774,Hesperiidae,Pyrginae,PYRCEN,SUBSPECIES,Pyrgus,centaureae,wyandot,,'Appalachian' Grizzled Skipper,,,FALSE
+778,Hesperiidae,Pyrginae,PYRCOM,SPECIES,Pyrgus,communis,,,Common Checkered-Skipper,*,,FALSE
+780,Hesperiidae,Pyrginae,PYROIL,SPECIES,Pyrgus,oileus,,,Tropical Checkered-Skipper,,,TRUE
+781,Hesperiidae,Pyrginae,PYRPHI,SPECIES,Pyrgus,philetas,,,Desert Checkered-Skipper,,,FALSE
+653,Hesperiidae,Pyrrhopyginae,PYRRARA,SPECIES,Pyrrhopyge,araxes,,,Dull Firetip,,,FALSE
+775,Hesperiidae,Pyrginae,PYRRUR,SPECIES,Pyrgus,ruralis,,,Two-banded Checkered-Skipper,,,FALSE
+777,Hesperiidae,Pyrginae,PYRSCR,SPECIES,Pyrgus,scriptura,,,Small Checkered-Skipper,,,FALSE
+776,Hesperiidae,Pyrginae,PYRXAN,SPECIES,Pyrgus,xanthus,,,Mountain Checkered-Skipper,,,FALSE
+906,Hesperiidae,Hesperiinae,QUAEUL,SPECIES,Quasimellana,eulogius,,,Common Mellana,,,FALSE
+171,Lycaenidae,Theclinae,REK-SP,GENUS,Rekoa,sp.,,,Rekoa sp.,,,FALSE
+170,Lycaenidae,Theclinae,REKMAR,SPECIES,Rekoa,marius,,,Marius Hairstreak,,,FALSE
+169,Lycaenidae,Theclinae,REKPAL,SPECIES,Rekoa,palegon,,,Gold-bordered Hairstreak,,,FALSE
+829,Hesperiidae,Hesperiinae,RHIOSC,SPECIES,Rhinthon,osca,,,Osca Skipper,,,FALSE
+416,Nymphalidae,Heliconiinae,S-BOAC,SUBSPECIES,Boloria,improba acrocnema,,Y,Uncompahgre' Dingy Fritillary,,,FALSE
+522,Nymphalidae,Limenitidinae,S-LIAR,SUBSPECIES,Limenitis,arthemis arthemis,,Y,White Admiral,,,FALSE
+523,Nymphalidae,Limenitidinae,S-LIAS,SUBSPECIES,Limenitis,arthemis astyanax,,Y,Red-spotted Purple,,,FALSE
+321,Lycaenidae,Polyommatinae,S-LYSA,SUBSPECIES,Lycaeides,melissa,samuelis,Y,Karner' Melissa Blue,,Plebejus as per Scott,FALSE
+197,Lycaenidae,Theclinae,SAT-SP,GENUS,Satyrium,sp.,,,Satyrium sp.,,,FALSE
+181,Lycaenidae,Theclinae,SATACA,SPECIES,Satyrium,acadica,,,Acadian Hairstreak,,,FALSE
+189,Lycaenidae,Theclinae,SATAUR,SPECIES,Satyrium,auretorum,,,Gold-hunter's Hairstreak,,,FALSE
+179,Lycaenidae,Theclinae,SATBEH,SPECIES,Satyrium,behrii,,,Behr's Hairstreak,,,FALSE
+185,Lycaenidae,Theclinae,SATCA1,SPECIES,Satyrium,calanus,,,Banded Hairstreak,,,FALSE
+182,Lycaenidae,Theclinae,SATCA2,SPECIES,Satyrium,californica,,,California Hairstreak,,,FALSE
+186,Lycaenidae,Theclinae,SATCA3,SPECIES,Satyrium,caryaevorum,,,Hickory Hairstreak,,,FALSE
+184,Lycaenidae,Theclinae,SATEDW,SPECIES,Satyrium,edwardsii,,,Edwards' Hairstreak,,,FALSE
+192,Lycaenidae,Theclinae,SATFAV,SPECIES,Satyrium,favonius,,,Oak Hairstreak,*,,FALSE
+193,Lycaenidae,Theclinae,SATFAV,SUBSPECIES,Satyrium,favonius,favonius,,Southern' Oak Hairstreak,,,FALSE
+194,Lycaenidae,Theclinae,SATFAV,SUBSPECIES,Satyrium,favonius,ontario,,Northern' Oak Hairstreak,,,FALSE
+180,Lycaenidae,Theclinae,SATFUL,SPECIES,Satyrium,fulginosa,,,Sooty Hairstreak,*,,FALSE
+195,Lycaenidae,Theclinae,SATILA,SPECIES,Satyrium,ilavia,,,Ilavia Hairstreak,,,FALSE
+187,Lycaenidae,Theclinae,SATKIN,SPECIES,Satyrium,kingi,,,King's Hairstreak,,,FALSE
+188,Lycaenidae,Theclinae,SATLIP,SPECIES,Satyrium,liparops,,,Striped Hairstreak,,,FALSE
+196,Lycaenidae,Theclinae,SATPOL,SPECIES,Satyrium,polingi,,,Poling's Hairstreak,,,FALSE
+191,Lycaenidae,Theclinae,SATSAE,SPECIES,Satyrium,saepium,,,Hedgerow Hairstreak,,,FALSE
+183,Lycaenidae,Theclinae,SATSYL,SPECIES,Satyrium,sylvinus,,,Sylvan Hairstreak,,,FALSE
+190,Lycaenidae,Theclinae,SATTET,SPECIES,Satyrium,tetra,,,Mountain Mahogany Hairstreak,,,FALSE
+178,Lycaenidae,Theclinae,SATTIT,SPECIES,Satyrium,titus,,,Coral Hairstreak,,,FALSE
+587,Nymphalidae,Satyrinae,SATY-SP,GENUS,Satyrodes,sp.,,,Brown sp.,,,FALSE
+586,Nymphalidae,Satyrinae,SATYAPP,SPECIES,Satyrodes,appalachia,,,Appalachian Brown,,Scott uses Lethe,FALSE
+585,Nymphalidae,Satyrinae,SATYEUR,SPECIES,Satyrodes,eurydice,,,Eyed Brown,,Scott uses Lethe,FALSE
+579,Nymphalidae,Apaturinae,SF-APAT,SUBFAMILY,Apaturinae,sp.,,,Emperor sp.,,,FALSE
+138,Pieridae,Coliadinae,SF-COLI,SUBFAMILY,Coliadinae,sp.,,,Sulphur sp.,,,FALSE
+428,Nymphalidae,Heliconiinae,SF-HELI,SUBFAMILY,Heliconiinae,sp.,,,Heliconiinae sp.,,,FALSE
+968,Hesperiidae,Hesperiinae,SF-HESP,SUBFAMILY,Hesperiinae,sp.,,,Grass Skipper sp.,,,FALSE
+808,Hesperiidae,Heteropterinae,SF-HETE,SUBFAMILY,Heteropterinae,sp.,,,Heteropterinae sp.,,,FALSE
+564,Nymphalidae,Limenitidinae,SF-LIME,SUBFAMILY,Limenitidinae,sp.,,,Limenitidinae sp.,,,FALSE
+986,Hesperiidae,Megathyminae,SF-MEGA,SUBFAMILY,Megathyminae,sp.,,,Giant-Skipper sp.,,,FALSE
+520,Nymphalidae,Nymphalinae,SF-NYMP,SUBFAMILY,Nymphalinae,sp.,,,Nymphalinae sp.,,,FALSE
+46,Papilionidae,Papilioninae,SF-PAPI,SUBFAMILY,Papilioninae,sp.,,,Swallowtail sp.,,,FALSE
+86,Pieridae,Pierinae,SF-PIER,SUBFAMILY,Pierinae,sp.,,,White sp.,,,FALSE
+339,Lycaenidae,Polyommatinae,SF-POLY,SUBFAMILY,Polyommatinae,sp.,,,Blue sp.,,,FALSE
+800,Hesperiidae,Pyrginae,SF-PYRG,SUBFAMILY,Pyrginae,sp.,,,Spreadwing Skipper sp.,,,FALSE
+644,Nymphalidae,Satyrinae,SF-SATY,SUBFAMILY,Satyrinae,sp.,,,Satyr sp.,,,FALSE
+268,Lycaenidae,Theclinae,SF-THEC,SUBFAMILY,Theclinae,sp.,,,Hairstreak sp.,,,FALSE
+259,Lycaenidae,Theclinae,SIDTEP,SPECIES,Siderus,tephraeus,,,Pearly-gray Hairstreak,,,FALSE
+519,Nymphalidae,Nymphalinae,SIP-SP,GENUS,Siproeta,sp.,,,Siproeta sp.,,,FALSE
+518,Nymphalidae,Nymphalinae,SIPEPA,SPECIES,Siproeta,epaphus,,,Rusty-tipped Page,*,,FALSE
+517,Nymphalidae,Nymphalinae,SIPSTE,SPECIES,Siproeta,stelenes,,,Malachite,,,FALSE
+558,Nymphalidae,Limenitidinae,SMYBLO,SPECIES,Smyrna,blomfildia,,,Blomfild's Beauty,,,FALSE
+738,Hesperiidae,Pyrginae,SOSBIF,SPECIES,Sostrata,bifasciata,,,Blue-studded Skipper,,,FALSE
+719,Hesperiidae,Pyrginae,SPACLO,SPECIES,Spathilepia,clonius,,,Falcate Skipper,,,FALSE
+408,Nymphalidae,Heliconiinae,SPEY-SP,GENUS,Speyeria,sp.,,,Greater fritillary sp.,,,FALSE
+399,Nymphalidae,Heliconiinae,SPEYADI,SPECIES,Speyeria,adiaste,,,Unsilvered Fritillary,,,FALSE
+389,Nymphalidae,Heliconiinae,SPEYAPH,SPECIES,Speyeria,aphrodite,,,Aphrodite Fritillary,,,FALSE
+400,Nymphalidae,Heliconiinae,SPEYATL,SPECIES,Speyeria,atlantis,,,Atlantis Fritillary,*,,FALSE
+401,Nymphalidae,Heliconiinae,SPEYATL,SUBSPECIES,Speyeria,atlantis,atlantis,,Atlantis' Atlantis Fritillary,,,FALSE
+402,Nymphalidae,Heliconiinae,SPEYATL,SUBSPECIES,Speyeria,atlantis,hesperis,,Hesperis' Atlantis Fritillary,,,FALSE
+403,Nymphalidae,Heliconiinae,SPEYATL,SUBSPECIES,Speyeria,atlantis,nausicaa,,Southwestern' Atlantis Fritillary,,,FALSE
+396,Nymphalidae,Heliconiinae,SPEYCAL,SPECIES,Speyeria,callippe,,,Callippe Fritillary,,,FALSE
+397,Nymphalidae,Heliconiinae,SPEYCAL,SUBSPECIES,Speyeria,callippe,nevadensis,,Callippe Fritillary,,,FALSE
+393,Nymphalidae,Heliconiinae,SPEYCOR,SPECIES,Speyeria,coronis,,,Coronis Fritillary,,,FALSE
+387,Nymphalidae,Heliconiinae,SPEYCYB,SPECIES,Speyeria,cybele,,,Great Spangled Fritillary,,,FALSE
+388,Nymphalidae,Heliconiinae,SPEYCYB,SUBSPECIES,Speyeria,cybele,leto,,Great Spangled Fritillary,,,FALSE
+386,Nymphalidae,Heliconiinae,SPEYDIA,SPECIES,Speyeria,diana,,,Diana Fritillary,,,FALSE
+392,Nymphalidae,Heliconiinae,SPEYEDW,SPECIES,Speyeria,edwardsii,,,Edwards' Fritillary,,,FALSE
+398,Nymphalidae,Heliconiinae,SPEYEGL,SPECIES,Speyeria,egleis,,,Great Basin Fritillary,,,FALSE
+404,Nymphalidae,Heliconiinae,SPEYHYD,SPECIES,Speyeria,hydaspe,,,Hydaspe Fritillary,,,FALSE
+390,Nymphalidae,Heliconiinae,SPEYIDA,SPECIES,Speyeria,idalia,,,Regal Fritillary,,,FALSE
+405,Nymphalidae,Heliconiinae,SPEYMOR,SPECIES,Speyeria,mormonia,,,Mormon Fritillary,,,FALSE
+406,Nymphalidae,Heliconiinae,SPEYMOR,SUBSPECIES,Speyeria,mormonia,atronia,,Mormon Fritillary,,,FALSE
+407,Nymphalidae,Heliconiinae,SPEYMOR,SUBSPECIES,Speyeria,mormonia,luski,,Mormon Fritillary,,,FALSE
+391,Nymphalidae,Heliconiinae,SPEYNOK,SPECIES,Speyeria,nokomis,,,Nokomis Fritillary,,,FALSE
+394,Nymphalidae,Heliconiinae,SPEYZER,SPECIES,Speyeria,zerene,,,Zerene Fritillary,,,FALSE
+395,Nymphalidae,Heliconiinae,SPEYZER,SUBSPECIES,Speyeria,zerene,carolae,,'Spring Mountains' Zerene Fritillary,*,,FALSE
+985,Hesperiidae,Megathyminae,STAMAC,SPECIES,Stallingsia,maculosa,,,Manfreda Giant-Skipper,,,FALSE
+736,Hesperiidae,Pyrginae,STAP-SP,GENUS,Staphylus,sp.,,,Scallopwing,,,FALSE
+733,Hesperiidae,Pyrginae,STAPCEO,SPECIES,Staphylus,ceos,,,Golden-headed Scallopwing,,,FALSE
+735,Hesperiidae,Pyrginae,STAPHAY,SPECIES,Staphylus,hayhurstii,,,Hayhurst's Scallopwing,,,FALSE
+734,Hesperiidae,Pyrginae,STAPMAZ,SPECIES,Staphylus,mazans,,,Mazans Scallopwing,,,TRUE
+846,Hesperiidae,Hesperiinae,STIMOR,SPECIES,Stinga,morrisoni,,,Morrison's Skipper,,,FALSE
+250,Lycaenidae,Theclinae,STR-SP,GENUS,Strymon,sp.,,,Scrub-Hairstreak sp.,,,FALSE
+243,Lycaenidae,Theclinae,STRACI,SPECIES,Strymon,acis,,,Bartram's Scrub-Hairstreak,,,FALSE
+242,Lycaenidae,Theclinae,STRALB,SPECIES,Strymon,albata,,,White Scrub-Hairstreak,,,FALSE
+244,Lycaenidae,Theclinae,STRALE,SPECIES,Strymon,alea,,,Lacey's Scrub-Hairstreak,,,TRUE
+237,Lycaenidae,Theclinae,STRAVA,SPECIES,Strymon,avalona,,,Avalon Scrub-Hairstreak,,,FALSE
+248,Lycaenidae,Theclinae,STRBAZ,SPECIES,Strymon,bazochii,,,Lantana Scrub-Hairstreak,,,FALSE
+239,Lycaenidae,Theclinae,STRBEB,SPECIES,Strymon,bebrycia,,,Red-lined Scrub-Hairstreak,,,FALSE
+247,Lycaenidae,Theclinae,STRCES,SPECIES,Strymon,cestri,,,Tailless Scrub-Hairstreak,,,FALSE
+245,Lycaenidae,Theclinae,STRIST,SPECIES,Strymon,istapa,,,Mallow Scrub-Hairstreak,*,Scott lists as Strymon columella,FALSE
+246,Lycaenidae,Theclinae,STRLIM,SPECIES,Strymon,limenia,,,Disguised Scrub-Hairstreak,,,FALSE
+240,Lycaenidae,Theclinae,STRMAR,SPECIES,Strymon,martialis,,,Martial Scrub-Hairstreak,,,FALSE
+236,Lycaenidae,Theclinae,STRMEL,SPECIES,Strymon,melinus,,,Gray Hairstreak,,,FALSE
+238,Lycaenidae,Theclinae,STRRUF,SPECIES,Strymon,rufofusca,,,Red-crescent Scrub-Hairstreak,,,FALSE
+249,Lycaenidae,Theclinae,STRSER,SPECIES,Strymon,serapio,,,Bromeliad Scrub-Hairstreak,,,FALSE
+241,Lycaenidae,Theclinae,STRYOJ,SPECIES,Strymon,yojoa,,,Yojoa Scrub-Hairstreak,,,FALSE
+813,Hesperiidae,Hesperiinae,SYN-SP,GENUS,Synapte,sp.,,,Synapte sp.,,,FALSE
+810,Hesperiidae,Hesperiinae,SYNMAL,SPECIES,Synapte,malitiosa,,,Malicious Skipper,,,FALSE
+811,Hesperiidae,Hesperiinae,SYNSAL,SPECIES,Synapte,salenus,,,Salenus Skipper,,,FALSE
+812,Hesperiidae,Hesperiinae,SYNSYR,SPECIES,Synapte,syraces,,,Faceted Skipper,,,FALSE
+629,Nymphalidae,Satyrinae,SYRPAT,SPECIES,Gyrocheilus,patrobas,,,Red-bordered Satyr,,,FALSE
+745,Hesperiidae,Pyrginae,SYS-SP,GENUS,Systasea,sp.,,,Powdered-Skipper sp.,,,FALSE
+743,Hesperiidae,Pyrginae,SYSPUL,SPECIES,Systasea,pulverulenta,,,Texas Powdered-Skipper,,,FALSE
+744,Hesperiidae,Pyrginae,SYSZAM,SPECIES,Systasea,zampa,,,Arizona Powdered-Skipper,,,FALSE
+456,Nymphalidae,Nymphalinae,TEXELA,SPECIES,Texola,elada,,,Elada Checkerspot,,,FALSE
+967,Hesperiidae,Hesperiinae,THEMAC,SPECIES,Thespieus,macareus,,,Chestnut-marked Skipper,,,FALSE
+714,Hesperiidae,Pyrginae,THO-SP,GENUS,Thorybes,sp.,,,Cloudywing sp.,,,FALSE
+708,Hesperiidae,Pyrginae,THOBAT,SPECIES,Thorybes,bathyllus,,,Southern Cloudywing,,,FALSE
+712,Hesperiidae,Pyrginae,THOCON,SPECIES,Thorybes,confusis,,,Confused Cloudywing,,,FALSE
+710,Hesperiidae,Pyrginae,THODIV,SPECIES,Thorybes,diversus,,,Western Cloudywing,,,FALSE
+713,Hesperiidae,Pyrginae,THODRU,SPECIES,Thorybes,drusius,,,Drusius Cloudywing,,,FALSE
+711,Hesperiidae,Pyrginae,THOMEX,SPECIES,Thorybes,mexicanus,,,Mexican Cloudywing,,,FALSE
+709,Hesperiidae,Pyrginae,THOPYL,SPECIES,Thorybes,pylades,,,Northern Cloudywing,,,FALSE
+843,Hesperiidae,Hesperiinae,THYLIN,SPECIES,Thymelicus,lineola,,,European Skipper,,,FALSE
+748,Hesperiidae,Pyrginae,TIMPUR,SPECIES,Timochares,ruptifasciatus,,,Brown-banded Skipper,,,FALSE
+258,Lycaenidae,Theclinae,TMOECH,SPECIES,Tmolus,echion,,,Red-spotted Hairstreak,,,FALSE
+672,Hesperiidae,Pyrginae,TYPUND,SPECIES,Typhedanus,undulatus,,,Mottled Longtail,,,FALSE
+691,Hesperiidae,Pyrginae,URB-SP,GENUS,Urbanus,sp.,,,Longtail sp.,,,FALSE
+684,Hesperiidae,Pyrginae,URBBEL,SPECIES,Urbanus,belli,,,Double-striped Longtail,*,,FALSE
+685,Hesperiidae,Pyrginae,URBDO1,SPECIES,Urbanus,dorantes,,,Dorantes Longtail,,,TRUE
+690,Hesperiidae,Pyrginae,URBDO2,SPECIES,Urbanus,doryssus,,,White-tailed Longtail,,,FALSE
+683,Hesperiidae,Pyrginae,URBESM,SPECIES,Urbanus,esmeraldus,,,Esmeralda Longtail,,,FALSE
+689,Hesperiidae,Pyrginae,URBPR1,SPECIES,Urbanus,procne,,,Brown Longtail,,,FALSE
+682,Hesperiidae,Pyrginae,URBPR2,SPECIES,Urbanus,pronus,,,Pronus Longtail,,,FALSE
+681,Hesperiidae,Pyrginae,URBPR3,SPECIES,Urbanus,proteus,,,Long-tailed Skipper,,,FALSE
+688,Hesperiidae,Pyrginae,URBSIM,SPECIES,Urbanus,simplicius,,,Plain Longtail,,,FALSE
+687,Hesperiidae,Pyrginae,URBTAN,SPECIES,Urbanus,tanna,,,Tanna Longtail,,,FALSE
+686,Hesperiidae,Pyrginae,URBTEL,SPECIES,Urbanus,teleus,,,Teleus Longtail,,,FALSE
+332,Lycaenidae,Polyommatinae,VACOPT,SPECIES,Vacciniina,optilete,,,Cranberry Blue,,,FALSE
+296,Lycaenidae,Polyommatinae,VAGBLA,SPECIES,Vaga,blackburni,,,Hawaiian Blue,*,,FALSE
+506,Nymphalidae,Nymphalinae,VAN-SP,GENUS,Vanessa,sp.,,,Lady sp.,,,FALSE
+503,Nymphalidae,Nymphalinae,VANANN,SPECIES,Vanessa,annabella,,,West Coast Lady,,Scott V. carye (with annabella and carye as ssp.),FALSE
+505,Nymphalidae,Nymphalinae,VANATA,SPECIES,Vanessa,atalanta,,,Red Admiral,,,FALSE
+502,Nymphalidae,Nymphalinae,VANCAR,SPECIES,Vanessa,cardui,,,Painted Lady,,,TRUE
+504,Nymphalidae,Nymphalinae,VANTAM,SPECIES,Vanessa,tameneamea,,,Kamehameha Lady,,,FALSE
+501,Nymphalidae,Nymphalinae,VANVIR,SPECIES,Vanessa,virginiensis,,,American Lady,,,FALSE
+827,Hesperiidae,Hesperiinae,VETFAN,SPECIES,Vettius,fantasos,,,Fantastic Skipper,,,FALSE
+815,Hesperiidae,Hesperiinae,VIDPER,SPECIES,Vidius,perigenes,,,Pale-rayed Skipper,,,FALSE
+882,Hesperiidae,Hesperiinae,WAL-SP,GENUS,Wallengrenia,sp.,,,Broken-Dash sp.,,,FALSE
+881,Hesperiidae,Hesperiinae,WALEGE,SPECIES,Wallengrenia,egeremet,,,Northern Broken-Dash,,,FALSE
+880,Hesperiidae,Hesperiinae,WALOTH,SPECIES,Wallengrenia,otho,,,Southern Broken-Dash,,,FALSE
+740,Hesperiidae,Pyrginae,XENTRY,SPECIES,Xenophanes,tryxus,,,Glassy-winged Skipper,,,FALSE
+676,Hesperiidae,Pyrginae,ZESDOR,SPECIES,Zestusa,dorus,,,Short-tailed Skipper,,,FALSE
+276,Lycaenidae,Polyommatinae,ZIZCYN,SPECIES,Zizula,cyna,,,Cyna Blue,,,FALSE
+,,,GREMOR,SPECIES,Greta,morgane,,,Thick-tipped Greta,,,FALSE
+,,,ITADEM,SPECIES,Itaballia,demophile,,,Cross-barred White,,,FALSE
+,,,TEMLAO,SPECIES,Temenis,laothoe,,,Orange Banner,,,FALSE
+,ADDED,ADDED,HELISUB,SPECIES,Heliopetes,sublinea,,,East-Mexican White-Skipper,,,FALSE
+,,,ZIEGUZ,SPECIES,Ziegleria,guzanta,,,Orange-crescent Groundstreak,,,FALSE
+,,,BIEZON,SPECIES,Baeotis,zonata,,,Bumble Bee Metalmark,,,FALSE
+,,,ACHLPAL,SPECIES,Achlyodes,pallida,,,Pale Sicklewing,,,FALSE
+,,,POMPOM,SPECIES,Pompeius,pompeius,,,Common Glassywing,,,FALSE
+,,,RHEARC,SPECIES,Rhetus,arcius,,,Sword-tailed Beautymark,,,FALSE
+,,,EBR-SP,GENUS,Ebrietas,sp.,,,Bentwing,,,FALSE
+,,,MELLIL,SPECIES,Melinaea,lilis,,,Heliconoid Ticlear,,,FALSE
+,,,ARCDEM,,,,,,,,,FALSE
+,,,,,Boloria,titania,,,,,NABA equivalent? Syn: Clossiana titania,FALSE
