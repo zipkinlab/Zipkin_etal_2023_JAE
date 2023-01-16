@@ -150,7 +150,7 @@ for(s in 1:nsim){
         rel.j=rel.j, rel.a=rel.a, sJ = sJ, nJ = nJ, C=counts, n.species = n.species)
 
   # Fit the model
-  m1 <- try(jags(jags.data.ipm, inits.ipm, parameters.ipm, here("Scripts","MultiSpecies_Simulations.txt"),
+  m1 <- try(jags(jags.data.ipm, inits.ipm, parameters.ipm, here("code","Multispecies_Simulations.txt"),
                n.iter=ni, n.burnin=nb, n.chains=nc, n.thin=nt, n.adapt=na, parallel=TRUE))
   if(!inherits(m1, "try-error"))
     results[,,s] <- m1$summary
