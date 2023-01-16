@@ -4,4 +4,4 @@ This directory contains all code to simulate the data, fit models, and producing
 
 1. `Mutispecies_IPM_Simulations.R`: 
 2. `Multspecies_Simulations.txt`:
-3. `Multispecies_IPM_results.R`:
+3. `Multispecies_IPM_Results.R`:
