@@ -164,4 +164,4 @@ for(s in 1:nsim){
 rownames(results) <- rownames(m1$summary)
 colnames(results) <- colnames(m1$summary)
 
-save(results, results_sims, mu.sj, mu.sa, mu.f, mu.p, sd.lsj, sd.lsa, sd.f, sd.lp, lsj, lsa, lp, mean.sj, mean.sa, mean.p, mean.f, lam, n.species, n.occasions, n.sim, file = here("Results","Simulation Results.Rdata"))
+save(results, results_sims, mu.sj, mu.sa, mu.f, mu.p, sd.lsj, sd.lsa, sd.f, sd.lp, lsj, lsa, lp, mean.sj, mean.sa, mean.p, mean.f, lam, n.species, n.occasions, n.sim, file = here("Results","Simulation_Results.Rdata"))
