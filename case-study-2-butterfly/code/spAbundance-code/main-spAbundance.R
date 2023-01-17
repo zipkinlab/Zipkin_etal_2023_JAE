@@ -7,6 +7,8 @@ library(spAbundance)
 # Load data formatted for spAbundance -------------------------------------
 # This loads an object called data.list
 load('data/spAbundance-data.rda')
+# To load the smaller data object included on GitHub, 
+# use load('data/spAbundance-data-github.rda')
 # Check out its structure
 str(data.list)
 # data.list is comprised of two components: 
@@ -31,6 +33,8 @@ str(data.list)
 #                           this is actually equal to number of surveys - 1, such 
 #                           that a value of 0 corresponds to surveys with one 
 #                           survey (aka the intercept is expected count for one survey).
+# Note that the object on GitHub has an identical format, except there is 
+# no column for oh.ind (since the Ohio data is not included). 
 
 # Get chain number from command line run ----------------------------------
 # This is used to save the chain number in the resulting file name.
@@ -82,6 +86,18 @@ out <- msAbund(formula = ~ ia.ind + il.ind + mi.ind + oh.ind + survey.cov +
 	       n.burn = n.burn,
 	       n.thin = n.thin,
 	       n.chains = n.chains)
+# Note that to fit the model using the smaller data set included on GitHub, 
+# the formula in the above will need to be slightly modified, as the full 
+# model was fit with NABA as the reference level for the intercept. The 
+# model using the data on GitHub can be fit with the three data sources by 
+# setting the Iowa data as the reference level and then including il.ind and 
+# mi.ind as predictors. Thus, the formula can be changed to 
+# formula = ~ il.ind + mi.ind + survey.cov + 
+#             scale(year.cov) + scale(week.cov) + I(scale(week.cov)^2) + 
+#             (scale(week.cov) | year.cov) + (I(scale(week.cov)^2) | year.cov) +
+#             (1 | county.cov) + (1 | site.cov) + (1 | year.cov),
+# Note that results will differ from those shown in the manuscript since only 
+# three of the five data sources are used.
 
 # Save results ------------------------------------------------------------
 # Full model results file. Note that this is a large object that is not provided 
