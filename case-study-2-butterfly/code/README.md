@@ -1,9 +1,8 @@
 # code
 
-This directory contains all code for raw data analysis, fitting models, and producing the results shown in the manuscript for the butterfly cases tudy. The scripts directly in the `code` directory are data prep scripts used to prepare the butterfly data for fitting the model in both `spAbundance` and `Stan`. The scripts in `spAbundance-code/` and `stan-code`/ contain the specific scripts for fitting the model in `spAbundance` and `Stan`, respectively. Note that the `stan-code` directory is currently empty, but scripts for fitting this model in `Stan` will be added to this directory shortly.
+This directory contains all code for raw data analysis, fitting models, and producing the results shown in the manuscript for the butterfly cases tudy. The scripts directly in the `code` directory are data prep scripts used to prepare the butterfly data for fitting the model in both `spAbundance` and `Stan`. The scripts in `spAbundance-code/` and `stan-code`/ contain the specific scripts for fitting the model in `spAbundance` and `Stan`, respectively.   
 
 1. `butterfly-data-prep.R`: script to prepare the raw data from the five butterfly data sets into the format necessary for fitting the integrated community model.
-
 
 ## spAbundance-code
 
@@ -15,4 +14,5 @@ This directory contains all code for raw data analysis, fitting models, and prod
 
 ## stan-code
 
-This directory is currently empty, but will eventually contain scripts for fitting the integrated community model using custom Stan code.
+1. `main-stan.R`: code to call `Stan` code using the `rstan` package and fit the integrated community model.
+2. `icm.stan`: `Stan` file containing the custom `Stan` code for the integrated community model to assess trends in the butterfly community. 
