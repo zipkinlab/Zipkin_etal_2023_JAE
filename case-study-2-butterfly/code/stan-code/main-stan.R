@@ -60,8 +60,8 @@ str(stan.list)
 
 # Run the model in stan ---------------------------------------------------
 # MCMC parameters
-n.samples <- 1000
-n.burn <- 500
+n.samples <- 3000
+n.burn <- 2000
 n.thin <- 5
 n.chains <- 3
 n.cores <- 3
@@ -111,7 +111,7 @@ params <- c('betaInt', 'betaIA', 'betaIL', 'betaMI',
 
 # Call stan from R --------------------------------------------------------
 stan.model <- rstan::stan_model('code/stan-code/icm.stan')
-
+# Note that 1000 iterations takes a little over 24 hours.
 out <- stan('code/stan-code/icm.stan',
             control = list(adapt_delta = 0.8),
             data = stan.list, init = inits, pars = params,

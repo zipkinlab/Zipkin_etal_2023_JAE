@@ -16,3 +16,4 @@ This directory contains all code for raw data analysis, fitting models, and prod
 
 1. `main-stan.R`: code to call `Stan` code using the `rstan` package and fit the integrated community model.
 2. `icm.stan`: `Stan` file containing the custom `Stan` code for the integrated community model to assess trends in the butterfly community. 
+3. `summary-stan.R`: code to summarize results from the `stan` model fit and generate the corresponding Figure 3 in the manuscript, but using the `stan` model.
