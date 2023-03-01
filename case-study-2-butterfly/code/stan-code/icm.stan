@@ -35,12 +35,12 @@ data {
 
 parameters{
 
-        // Random effects (mean 0 and single variance for all species)
-        vector[n_counties_long] betaStarCounty;
-        vector[n_years_long] betaStarWeek;
-        vector[n_years_long] betaStarWeek2;
-        vector[n_sites_long] betaStarSite;
-        vector[n_years_long] betaStarYear;
+        // Random effects on raw scale (mean 0 and single variance for all species)
+        vector[n_counties_long] betaStarCountyRaw;
+        vector[n_years_long] betaStarWeekRaw;
+        vector[n_years_long] betaStarWeek2Raw;
+        vector[n_sites_long] betaStarSiteRaw;
+        vector[n_years_long] betaStarYearRaw;
 
 	// Species-specific effects
         vector[n_species] betaInt;
@@ -94,20 +94,34 @@ transformed parameters {
 	
 	// mu * rho 
 	vector<lower=0>[n_surveys_long] mu_star;
-	
+        
+        vector[n_counties_long] betaStarCounty;
+        vector[n_years_long] betaStarWeek;
+        vector[n_years_long] betaStarWeek2;
+        vector[n_sites_long] betaStarSite;
+        vector[n_years_long] betaStarYear;
+
+        betaStarCounty = betaStarCountyRaw * sqrt(sigma2_county);
+        betaStarWeek = betaStarWeekRaw * sqrt(sigma2_week);
+        betaStarWeek2 = betaStarWeek2Raw * sqrt(sigma2_week2);
+        betaStarSite = betaStarSiteRaw * sqrt(sigma2_site);
+        betaStarYear = betaStarYearRaw * sqrt(sigma2_year);
+
         // Model
         for (i in 1:n_species) {
           for (j in 1:n_surveys) {
-            mu[(i - 1) * n_surveys + j] = exp(betaInt[i] + betaIA[i] * ia_ind[j] + betaIL[i] * il_ind[j] + 
-                        betaMI[i] * mi_ind[j] + betaOH[i] * oh_ind[j] + 
-                        betaYear[i] * year_cov[j] + 
-                        betaWeek[i] * week_cov[j] + betaStarWeek[(i - 1) * n_years + year_id[j]] * week_cov[j] + 
-                        betaWeek2[i] * week2_cov[j] + betaStarWeek2[(i - 1) * n_years + year_id[j]] * week2_cov[j] + 
-                        betaSurvey[i] * survey_cov[j] + 
-                        betaStarCounty[(i - 1) * n_counties + county_id[j]] + 
-                        betaStarSite[(i - 1) * n_sites + site_id[j]] + 
-                        betaStarYear[(i - 1) * n_years + year_id[j]]);
-            mu_star[(i - 1) * n_surveys + j] = mu[(i - 1) * n_surveys + j] * rho[i];
+            mu[(i - 1) * n_surveys + j] = exp(betaInt[i] + betaIA[i] * ia_ind[j] + betaIL[i] * il_ind[j] +
+                                              betaMI[i] * mi_ind[j] + betaOH[i] * oh_ind[j] + 
+                                              betaYear[i] * year_cov[j] + 
+                                              betaWeek[i] * week_cov[j] + 
+                                              betaStarWeek[(i - 1) * n_years + year_id[j]] * week_cov[j] +
+                                              betaWeek2[i] * week2_cov[j] + 
+                                              betaStarWeek2[(i - 1) * n_years + year_id[j]] * week2_cov[j] + 
+                                              betaSurvey[i] * survey_cov[j] + 
+                                              betaStarCounty[(i - 1) * n_counties + county_id[j]] + 
+                                              betaStarSite[(i - 1) * n_sites + site_id[j]] + 
+                                              betaStarYear[(i - 1) * n_years + year_id[j]]);
+            mu_star[(i - 1) * n_surveys + j] = mu[(i - 1) * n_surveys + j] * rho[(i - 1) * n_surveys + j];
           } // j (survey)
         } // i (species)
 }
@@ -155,14 +169,14 @@ model {
 	target += uniform_lpdf(r_count | 0, 20);
 	
 	// Random effects
-	target += normal_lpdf(betaStarCounty | 0, sqrt(sigma2_county));
-	target += normal_lpdf(betaStarWeek | 0, sqrt(sigma2_week));
-	target += normal_lpdf(betaStarWeek2 | 0, sqrt(sigma2_week2));
-	target += normal_lpdf(betaStarSite | 0, sqrt(sigma2_site));
-	target += normal_lpdf(betaStarYear | 0, sqrt(sigma2_year));
+	target += std_normal_lpdf(betaStarCountyRaw);
+	target += std_normal_lpdf(betaStarWeekRaw);
+	target += std_normal_lpdf(betaStarWeek2Raw);
+	target += std_normal_lpdf(betaStarSiteRaw);
+	target += std_normal_lpdf(betaStarYearRaw);
 
-	// Gamma random variable 
         for (i in 1:n_species) {
+	  // Gamma random variable 
 	  target += gamma_lpdf(rho[((i - 1) * n_surveys + 1):(i * n_surveys)] | r_count[i], r_count[i]);
 	  // Poisson likelihood
 	  target += poisson_lpmf(y[((i - 1) * n_surveys + 1):(i * n_surveys)] | mu_star[((i -1) * n_surveys + 1):(i * n_surveys)]);
