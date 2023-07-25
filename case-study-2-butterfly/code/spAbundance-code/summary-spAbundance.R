@@ -176,3 +176,4 @@ ggplot(data = plot.df, aes(x = year, y = med)) +
 ggsave(file = 'figures/species-trends.pdf', width = 16, height = 10)
 ggsave(file = 'figures/species-trends.png', width = 16, height = 10)
 # The trend probabilities were subsequently added to each plot using Lucidchart.
+
