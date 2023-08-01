@@ -83,7 +83,8 @@ data.df <- data.frame(counts = c(t(data.list$y)),
 		      covs.df)
 data.df %>%
   group_by(sp, data.set) %>%
-  summarize(average = mean(counts, na.rm = TRUE)) %>%
+  summarize(average = mean(counts, na.rm = TRUE), 
+	    sd = sd(counts, na.rm = TRUE)) %>%
   arrange(sp, data.set) %>%
   print(n = nrow(.))
 

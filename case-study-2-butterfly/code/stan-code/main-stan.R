@@ -26,11 +26,8 @@ str(data.list)
 #          (6): week.cov: indicator for week of sampling.
 #          (7): site.cov: site id. 
 #          (8): county.cov: county id.
-#          (9): survey.cov: the total number of surveys performed for the 
-#                           given combination of year, week, spatial location. Note
-#                           this is actually equal to number of surveys - 1, such 
-#                           that a value of 0 corresponds to surveys with one 
-#                           survey (aka the intercept is expected count for one survey).
+#          (9): survey.cov: the log of the total number of surveys performed for the 
+#                           given combination of year, week, spatial location. 
 
 # Format data in list for stan --------------------------------------------
 sp.names <- dimnames(data.list$y)[[1]]

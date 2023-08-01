@@ -4,4 +4,5 @@ Contains some of the data used for the butterfly case study. Note this directory
 
 1. `BflyNames.csv`: contains information on butterfly common names, latin names, and codes.
 2. `DayWeek.csv`: contains information for linking different days of the year to specific weeks of the year.
-3. `spAbundance-data-github.csv`: contains the butterfly counts and covariate data for three of the five data sources used in the analysis: Illinois Butterfly Monitoring Network, Iowa Butterfly Survey Network, and Michigan Butterfly Network. These data are formatted for use when fitting the model in `spAbundance`. 
+3. `spAbundance-data-github.rda`: contains the butterfly counts and covariate data for three of the five data sources used in the analysis: Illinois Butterfly Monitoring Network, Iowa Butterfly Survey Network, and Michigan Butterfly Network. These data are formatted for use when fitting the model in `spAbundance`. 
+4. `butterfly-data-github.csv`: contains the same data as `spAbundance-data-github.rda`, but in CSV format.
