@@ -2,6 +2,8 @@
 
 ### Elise F. Zipkin, Jeffrey W. Doser, Courtney L. Davis, Wendy Leuenberger, Samuel Ayebare, Kayla L. Davis
 
+### Journal of Animal Ecology
+
 ### Please contact the first author for questions about the code or data used in the manuscript: Elise F. Zipkin 
 
 ---------------------------------
