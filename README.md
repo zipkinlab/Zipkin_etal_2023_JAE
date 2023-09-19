@@ -4,6 +4,8 @@
 
 ### Journal of Animal Ecology
 
+### Code/Data DOI: [![DOI](https://zenodo.org/badge/586894609.svg)](https://zenodo.org/badge/latestdoi/586894609)
+
 ### Please contact the first author for questions about the code or data used in the manuscript: Elise F. Zipkin 
 
 ---------------------------------
