@@ -1,4 +1,4 @@
-# Integrated community models: A framework combining multi-species data sources to estimate the status, trends, and dynamics of biodiversity
+# [Integrated community models: A framework combining multi-species data sources to estimate the status, trends, and dynamics of biodiversity](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.14012)
 
 ### Elise F. Zipkin, Jeffrey W. Doser, Courtney L. Davis, Wendy Leuenberger, Samuel Ayebare, Kayla L. Davis
 
